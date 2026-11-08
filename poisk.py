@@ -4,7 +4,7 @@
 Использование:
     python3 poisk.py "глубина моря Приразломное"
     python3 poisk.py            # интерактивный режим
-    python3 poisk.py --build    # пересобрать poisk.html (поиск в браузере / на телефоне)
+    python3 poisk.py --build    # пересобрать OTVETY.md из data/questions.json
 
 Сначала показываются совпадения из банка вопросов (data/questions.json) —
 там ответы, проверенные на учебном портале. Затем — фрагменты лекций и справочника.
@@ -134,13 +134,7 @@ def show(results):
             print("  " + d["text"].replace("\n", "\n  "))
 
 
-def build_html(docs):
-    tpl = (ROOT / "tools" / "poisk_template.html").read_text(encoding="utf-8")
-    data = json.dumps(docs, ensure_ascii=False)
-    stop = json.dumps(sorted(STOP), ensure_ascii=False)
-    out = tpl.replace("/*__DATA__*/[]", data).replace("/*__STOP__*/[]", stop)
-    (ROOT / "poisk.html").write_text(out, encoding="utf-8")
-    print(f"poisk.html собран: {len(docs)} фрагментов")
+def build_md(docs):
     lines = ["# Банк ответов (проверено на учебном портале)", "",
              "Файл собирается командой `python3 poisk.py --build` из `data/questions.json`.", ""]
     for d in docs:
@@ -162,7 +156,7 @@ def main():
     docs = build_corpus()
     args = sys.argv[1:]
     if args and args[0] == "--build":
-        build_html(docs)
+        build_md(docs)
         return
     if args:
         show(search(" ".join(args), docs))
