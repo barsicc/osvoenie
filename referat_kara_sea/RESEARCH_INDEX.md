@@ -1,5 +1,12 @@
 # Карта исследования
 
+## Второй этап
+
+- [Новые результаты и пересмотр выводов](research/ROUND_2_FINDINGS.md) и [инженерные находки для реферата и выступления](research/INTERESTING_FINDINGS.md).
+- [Ленинградское](research/CASE_LENINGRADSKOYE.md), [Победа](research/CASE_POBEDA.md) и [границы переноса инженерных аналогов](research/ENGINEERING_ANALOGUES.md).
+- [Статус восьми объектов и российская классификация](research/ROUND_2_STATUS_AND_CLASSIFICATION.md), [уточняющий поиск литературы](research/ROUND_2_LITERATURE.md) и [инженерные иллюстрации второго этапа](figures/ROUND_2_FIGURES.md).
+- [Официальные требования](requirements/official_requirements.md), [рабочая структура](requirements/outline_v1.md) и [редакционные ориентиры](requirements/EDITORIAL_GUIDELINES.md).
+
 Порядок чтения для автора реферата: [статус и пробелы](RESEARCH_STATUS.md), [реестр месторождений](research/02_fields.md), [сравнительный инженерный анализ](research/08_comparative_analysis.md), [расхождения в данных](research/09_conflicting_data.md). Переходите к карточкам за страницами, контекстом чисел и ограничениями источника.
 
 ## Вопросы и материалы
