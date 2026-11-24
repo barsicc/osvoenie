@@ -1,0 +1,12 @@
+# Временные сетевые ответы и рабочие извлечения.
+research/logs/
+research/search_logs/
+sources/other/classification_search/
+sources/other/status_search/
+sources/other/biblio_search/
+
+# Рендеры для визуальной проверки рисунков.
+figures/.check/
+
+# Кэш Python для вспомогательных проверок.
+__pycache__/

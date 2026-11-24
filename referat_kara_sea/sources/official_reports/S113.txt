@@ -1,0 +1,1137 @@
+Oil & Natural Gas Technology
+
+     DOE Award No.: DE-A126-05NT15538
+
+            Final Report
+
+    U.S. Geological Survey Oil and
+     Gas Resource Assessment
+         of the Russian Arctic
+
+                 Submitted by:
+                    USGS
+           12201 Sunrise Valley Drive
+               Reston, VA 20192
+
+                  Prepared for:
+       United States Department of Energy
+      National Energy Technology Laboratory
+
+                    July 2010
+
+             Office of Fossil Energy
+U.S. Geological Survey Oil and Gas Resource
+
+Assessment of the Russian Arctic
+
+By Donald L. Gautier and Timothy R. Klett
+
+Final Report
+
+Start: June 1, 2005
+
+End: December 31, 2007
+
+DOE Award Number DE‐A126‐05NT15538
+
+Administrative Report
+
+U.S. Department of the Interior
+U.S. Geological Survey
+
+                                              1
+                                 DISCLAIMER
+
+This report was prepared as an account of work sponsored by an agency of the
+United States Government. Neither the United States Government nor any
+agency thereof, nor any of their employees makes any warranty, express or
+implied, assumes any legal liability or responsibility for the accuracy,
+completeness or usefulness of any information, apparatus product, or process
+disclosed or represents that its use would not infringe privately owned rights.
+Reference herein to any specific commercial product, process, or service by
+trade name, trademark, or manufacturer does not necessarily constitute or imply
+its endorsement, recommendation or favoring by the United States Government
+or any agency thereof. The views and opinions of authors expressed herein do
+not necessarily state or reflect those of the United States Government or any
+agency thereof.
+
+                                                                                  2
+                                  ABSTRACT
+The U.S. Geological Survey (USGS) recently completed a study of undiscovered
+petroleum resources in the Russian Arctic as a part of its Circum-Arctic Resource
+Appraisal (CARA), which comprised three broad areas of work: geological
+mapping, basin analysis, and quantitative assessment. The CARA was a
+probabilistic, geologically based study that used existing USGS methodology,
+modified somewhat for the circumstances of the Arctic. New map compilation
+was used to identify assessment units. The CARA relied heavily on geological
+analysis and analog modeling, with numerical input consisting of lognormal
+distributions of sizes and numbers of undiscovered accumulations. Probabilistic
+results for individual assessment units were statistically aggregated, taking
+geological dependencies into account. The U.S. Department of Energy (DOE)
+funds were used to support the purchase of crucial seismic data collected in the
+Barents Sea, East Siberian Sea, and Chukchi Sea for use by USGS in its
+assessment of the Russian Arctic. DOE funds were also used to purchase a
+commercial study, which interpreted seismic data from the northern Kara Sea,
+and for geographic information system (GIS) support of USGS mapping of
+geological features, province boundaries, total petroleum systems, and
+assessment units used in the USGS assessment.
+
+                                                                                2
+                              TABLE OF CONTENTS
+
+                                                                         Page
+Abstract                                                                  2
+Executive Summary                                                         4
+Report Details                                                            5
+        Introduction                                                      5
+        Mapping the Arctic for the CARA                                   6
+        Geological Analysis of the Arctic Basins                          6
+        Quantitative Estimation of Undiscovered Petroleum with Example    8
+              South Barents Basin and Ludlov Saddle AU Description        8
+              Input Data for South Barents Basin and Ludlov Saddle AU     9
+              Geological Analysis of Assessment Unit Probability          10
+              Geological Analogs for Assessment                           11
+              Assessment Results                                          13
+References Cited                                                          15
+Acronyms                                                                  16
+Figures
+Table
+Appendix
+
+                                                                                3
+                            EXECUTIVE SUMMARY
+
+Among the greatest uncertainties concerning future energy supply is the volume
+of oil and gas remaining to be found in high northern latitudes. The potential for
+resource development is of increasing concern to the Arctic nations, to petroleum
+companies, and to all concerned about the region’s fragile environments. These
+concerns have been heightened by the recent retreat of polar ice, which is
+changing ecosystems and raising the prospect of easier petroleum exploration
+and development. For better or worse, limited exploration opportunities
+elsewhere in the world combined with technological advances makes the Arctic
+increasingly attractive for development. Of the 6 percent of the Earth’s surface
+encompassed by the Arctic Circle, one-third is above sea level and another third
+is in continental shelves beneath less than 500 m of water. The remainder of the
+Arctic consists of deep ocean basins historically covered by sea ice. Some
+onshore areas have already been explored and deep oceanic basins have
+relatively low petroleum potential, but the Arctic continental shelves constitute
+one of the world’s largest remaining petroleum-prospective areas. Until now,
+remoteness and technical difficulty, coupled with abundant low-cost petroleum,
+have ensured that little exploration would occur offshore in the Arctic. Even
+where offshore wells have been drilled – in the Mackenzie Delta, the Barents
+Sea, the Sverdrup Basin, and in offshore Alaska – most resulting discoveries
+remain undeveloped.
+To provide a perspective on the oil and gas resource potential of the region, the
+U.S. Geological Survey (USGS) recently assessed the potential for undiscovered
+conventional petroleum in the Arctic. The U.S. Department of Energy (DOE),
+through award DE-A126-05NT15538, provided support for parts of the USGS
+study. In particular, the DOE funds helped the USGS with its purchase of crucial
+seismic data collected in the Barents Sea, East Siberian Sea, and Chukchi Sea
+for use in assessment of the Russian Arctic. DOE funds were also used to
+purchase a commercial study, which interpreted seismic data from the northern
+Kara Sea, and for partial support of USGS geographic information system (GIS)
+mapping of geological features, province boundaries, total petroleum systems,
+
+                                                                                 4
+and assessment units used in the USGS assessment of the Russian Arctic.
+Using a new map compilation of sedimentary elements, the area north of the
+Arctic Circle was subdivided into 69 assessment units, 48 of which were
+quantitatively assessed. The Circum-Arctic Resource Appraisal (CARA) was a
+geologically based, probabilistic study that relied heavily on burial-history
+analysis and analog modeling to estimate sizes and numbers of undiscovered oil
+and gas accumulations. The results of the CARA suggest that the Arctic is gas-
+prone, with an estimated 770 to 2990 trillion cubic feet of undiscovered
+conventional natural gas, most of which is in Russian territory. Arctic wide, on an
+energy-equivalent basis, the quantity of natural gas is more than three times the
+quantity of oil and the median size of the largest undiscovered gas field is
+expected to be about eight times the size of the largest undiscovered oil field. In
+addition to gas, the gas accumulations may contain an estimated 39 billion
+barrels of liquids. The South Kara Sea is the most prospective gas assessment
+unit, but giant gas fields containing more than 6 trillion cubic feet of recoverable
+gas are possible at a 50-percent chance in 10 assessment units throughout the
+Arctic. Approximately 60 percent of the estimated undiscovered oil resource is in
+just six assessment units, of which the Alaska Platform is the most prospective.
+Overall, the Arctic is estimated to contain between 44 and 157 billion barrels of
+recoverable oil. Undiscovered oil resources could be significant to the Arctic
+nations, but they are probably not sufficient to shift the world oil balance away
+from the Middle East.
+                                REPORT DETAILS
+Introduction
+The United States Geological Survey (USGS) recently completed an assessment
+of the undiscovered oil and gas resources of the Russian Arctic, as a part of the
+Circum-Arctic Resource Appraisal (CARA). The principal findings and
+implications of the study are summarized by Gautier and others (2009). The
+purpose of this introduction is to summarize the organization and methodological
+protocols used in conducting the USGS assessment and to explicitly recognize
+the contribution of the Department of Energy (DOE) to the acquisition of data
+used in assessment of the Russian Arctic.
+
+Periodically the USGS conducts assessments of global undiscovered petroleum
+resources. The most recent of these was published in 2000 (USGS World
+Assessment Team 2000). Although that study included several Arctic basins, its
+main focus was the oil and gas remaining to be found in the known petroleum
+basins of the world. Thus most of the extensive unexplored areas of the Arctic
+were left unevaluated in that study.
+
+In 2003 D.L. Gautier and G.F. Ulmishek formally proposed that the USGS
+undertake a systematic investigation of the undiscovered resources in all
+sedimentary basins of the Arctic, including those areas assessed in the 2000
+study. The proposal was approved for the 2004 fiscal year funding cycle and
+
+                                                                                   5
+work began on the Circum-Arctic Resource Appraisal (CARA) that year. The
+project was conducted under the auspices of the USGS World Petroleum Project,
+with most funding coming from the USGS Energy Resources Program. The DOE
+award discussed herein (DE-A126-05NT15538) provided additional funds for
+mapping and geological interpretation in the Russian Arctic.
+
+The first public presentation of the project was in the summer of 2004, when a
+research workshop devoted to the Arctic assessment was convened by the
+Geological Survey of Denmark and Greenland (GEUS) in Illulissat, West
+Greenland. After four years of work, the CARA was completed in 2008, and
+initial results were presented at the International Geological Congress in Oslo
+and published in Science Magazine (Gautier and others, 2009).
+
+The CARA project had three broad areas of activity: (1) geological mapping of
+the Arctic, (2) analysis of individual Arctic basins in preparation for the
+assessment, and (3) quantitative estimation of undiscovered petroleum.
+
+Mapping the Arctic for the CARA
+Consistent and reliable mapping of sedimentary basins is a prerequisite to any
+geologically based assessment. Early in the work of the CARA, it became
+evident that no existing geological map could adequately support the needs the
+study. In response, Arthur Grantz, a former USGS researcher with long
+experience in the Arctic, was invited to compile a new map of the Arctic
+sedimentary successions that would be suitable for use in the CARA. Grantz in
+turn approached Robert A. Scott and his colleagues of the Cambridge Arctic
+Shelves Programme at Cambridge University, Sergey S. Drachev of the P.P.
+Shirov Institute of Oceanology, Russian Academy of Sciences, and Thomas E.
+Moore, of the U.S. Geological Survey, all of whom agreed to collaborate on the
+new compilation.
+
+They set to work immediately and completed an initial draft in the summer of
+2005. The new map was then reviewed by a multinational group of Arctic
+experts at a workshop convened in Menlo Park, California, in December of that
+year. A revised map, reflecting many of the recommendations of the peer
+review, became available for use by the CARA team as its principal geological
+base map in the fall of 2006. After additional editing and revision the map was
+published through the American Association of Petroleum Geologists, where it
+remains publicly available online (Grantz and others, 2009).
+
+Geological Analysis of the Arctic Basins
+Geologically based resource assessments ultimately depend upon the quality
+and depth of their underlying geological analysis. For purposes of the CARA, a
+team of USGS scientists was assembled, originally consisting of approximately
+20 geologists, geophysicists, geochemists, statisticians, and GIS specialists,
+most of whom were full-time USGS employees. This team was charged with the
+geological analyses that were the basis for the assessment. The initial
+
+                                                                                  6
+responsibilities for analysis of the Russian Arctic and certain immediately
+adjacent areas, some of which changed during the course of the project, were as
+follows:
+
+Barents Shelf: T. S. Ahlbrandt, D. L. Gautier, T.R. Klett, and J. K. Pitman
+
+Arctic Russia and the Siberian Basins: K. J. Bird, T.R. Klett, J. K. Pitman, F. M.
+Persits, C. J. Schenk, G. F. Ulmishek, and C.J. Wandrey
+
+Continental Margins of Eurasia Basin, Canada Basin, and the Lomonosov Ridge:
+Arthur Grantz, D. W. Houseknecht, P. J. McCabe, T. E. Moore, and M. E.
+Tennyson
+
+Methodological support for the project was provided by R.R. Charpentier, D.L.
+Gautier, T.R. Klett, J.H. Schuenemeyer, and L.P. White. Analysis of potential
+field geophysical data was by R.W. Saltus, P.J. Brown, and A.K. Shah. Much of
+the burial-history and fluid-evolution modeling was done by J.K. Pitman, usually
+in cooperation with the other geologists. Geographic information system (GIS)
+mapping was by C.E. Anderson, C.P. Garrity, F.M. Persits, and Z.C. Valin.
+
+Although the numerical assessments were the sole responsibility of the USGS,
+the geological analysis depended upon the good will of an international group of
+organizations, including (in alphabetical order) the Bundesanstalt für
+Geowissenschaften und Rohstoffe (BGR), the Geological Survey of Canada
+(GSC), the Geological Survey of Denmark and Greenland (GEUS), the
+Norwegian Petroleum Directorate (NPD), and the U.S. Minerals Management
+Service (MMS). Many active industry petroleum geologists and their respective
+companies also generously offered concepts and data. Work on the Russian
+basins was supported by contracts with several Russian academic scientists;
+these contracts were largely purchased through funds provided by DOE Award
+DE-A126-05NT15538.
+
+The geological analysis of the Arctic basins was developed using publicly
+available information as well as data and expertise provided by the various
+cooperating organizations and scientists described above. Burial-history and
+fluid-evolution models were constructed for most basins using standard industry
+software such as PetroMod or BasinMod. The models were used to evaluate
+postulated petroleum systems and to help in selection of analogs for
+assessment.
+
+The CARA geologists proposed sets of total petroleum systems and explicitly
+mapped assessment units (AU) within their respective geographic areas of
+responsibility (U.S.Geological Survey, 2009). Areas of provinces, petroleum
+systems, and AUs were calculated in a geographic information system (GIS).
+For basins with discovery histories, data from known accumulations (IHS Energy,
+2007) were allocated to assessment units, from which spreadsheets were
+
+                                                                                     7
+tabulated and exploration history plots were prepared. On the basis of the
+geological analysis and burial-history modeling, the geologists selected sets of
+analogs from an analog database constructed from 246 geologically classified
+AUs assessed in the 2000 World Petroleum Assessment (Charpentier and
+others, 2008). Many of the variables required for the numerical assessment were
+represented in the analog database, including numbers of accumulations per unit
+area (field density), median and maximum accumulation sizes, and ratios of
+numbers of oil accumulations to gas accumulations.
+Quantitative Estimation of Undiscovered Petroleum with Example
+The methods employed by the CARA were similar to those used in the USGS
+World Petroleum Assessment 2000, but with certain modifications required by
+the special circumstances of the Arctic. The CARA geologists prepared
+documentation for each AU and completed a preliminary assessment input form.
+The entire CARA team then met to review the geological models, petroleum
+systems, AU definitions, analog sets, and assessment strategies. This process
+was intended to ensure a consistent treatment for every AU and to provide an
+important peer review of the geological concepts that were the basis for the
+CARA. In some cases, the review identified needs for additional geological work
+and/or changes to AU boundaries. If necessary, areas were recalculated and
+exploration history plots were updated.
+Some time after the initial review a formal assessment meeting was convened, at
+which time input forms were finalized and any necessary modifications were
+documented. An example of a completed geological input form used for the
+CARA is shown in appendix 1. The following paragraphs describe the capture of
+data for a CARA AU in the Russian Arctic – the South Barents Basin and Ludlov
+Saddle AU.
+South Barents Basin and Ludlov Saddle AU Description
+The South Barents Basin and Ludlov Saddle AU (SBBLS) in the East Barents
+Basins Province is bounded on the east by Novaya Zemlya and Admiralty Arch,
+on the north by the North Barents Basin, on the south by the Kolguyev Terrace
+and the Kola-Kanin Monocline, and on the west by the Central Barents High.
+The AU area is approximately 322,000 km2. Stratigraphically, the AU includes a
+sedimentary section from upper Paleozoic through Cretaceous.
+Major source rocks are inferred to be Triassic mudstone and possibly upper
+Paleozoic and Jurassic mudstone, all of which are presumed to be thermally
+mature in the South Barents Basin. Upper Devonian marine “Domanik Facies”
+mudstone is a potential source rock; however, it is not observed in the Kolguyev
+Terrace or in any wells in the South Barents Basin. In the Kolguyev Terrace,
+Upper Permian mudstone is thermally immature, but it might be mature deeper in
+the South Barents Basin. Upper Jurassic mudstone also could be a source rock
+in limited parts of the deeper basin, but it is thermally immature elsewhere.
+Known reservoir rocks in the AU are primarily Jurassic paralic and marine
+
+                                                                                 8
+sandstone and Permian and Triassic fluvial, deltaic, and nearshore marine
+sandstones. The Permian and Triassic reservoirs are thin and
+compartmentalized. Jurassic sandstones have good reservoir quality and
+contain most of the discovered petroleum. Upper Devonian through Lower
+Permian carbonates and reefs, similar to those in the Timan-Pechora Basin and
+observed on seismic profiles around the periphery of the South Barents Basin,
+are potential reservoirs. Lower Cretaceous submarine channel and fan
+sandstones are also potential reservoirs. Traps in which petroleum was
+discovered in the South Barents Basin are mainly broad, gentle anticlines that
+developed from Late Triassic to Early Cretaceous time.
+The input for assessment of undiscovered petroleum resources consists primarily
+of estimates of the number and sizes of undiscovered fields. The estimates are
+given as minimum, median, and maximum values, and lognormal distributions
+are fit to these values. Estimates of undiscovered petroleum resources are
+calculated by statistically combining the number and sizes of undiscovered oil
+and gas fields along with geological risk in a Monte Carlo simulation with 50,000
+iterations. Calculated resource quantities and the largest field size are recorded
+during every iteration, and the results are given as probability distributions. For
+areas that are immature with respect to exploration, analogs with real data aid in
+estimating these input variables.
+
+The main types of analog data used are field density and the median and
+maximum field sizes of fields exceeding 50 million barrels of oil-equivalent oil or
+gas (MMBOE), a minimum size cutoff used for this assessment. The number of
+undiscovered accumulations in an AU was estimated by comparing field
+densities of the analog datasets (number of fields per 1,000 km2). Sizes of
+undiscovered accumulations were estimated by comparing the median and
+maximum sizes in the analog sets.
+
+Input Data for South Barents Basin and Ludlov Saddle AU
+As is the case with SBBLS, most CARA AUs have had little exploration and only
+a few discoveries. In such cases analog sets were chosen to consistently
+evaluate resource potential based on geological similarities. The selected
+analogs were recorded on the input form (appendix 1) (Analogs Used in
+Estimating Input). For example in the case of the SBBLS, numbers and sizes
+were estimated in reference to the analog set of global AUs in rift/sag basins as
+the dominant control on trap type, and rift/sag is indicated on the form. A different
+analog or set of analogs was commonly used to determine the ratio of oil to gas,
+coproducts, and ancillary data. The form for the SBBLS shows that the
+discoveries from the South Barents Basin were used as a specific analog for
+commodity composition.
+Only one basic geological model was considered for the SBBLS (that of rift/sag
+basins) and only a single scenario was used. However, in cases where more
+than one geological model was postulated and multimodal distributions for
+
+                                                                                      9
+numbers or sizes of undiscovered accumulations were needed, each geological
+model was assigned to a scenario, with an associated probability. When multiple
+scenarios were specified, the sum of their probabilities must equal one. The
+input for each scenario was recorded on a separate input form. In the case of
+SBBLS, the single scenario probability was 1.0.
+On the form (appendix 1), a header labeled Identification Information names the
+AU (South Barents Basin and Ludlov Saddle), identifies the assessing geologist
+(T.R. Klett), and encodes the AU within a hierarchy of: (1) region (Former Soviet
+Union, region 1), (2) province (East Barents Basins, 1050), (3) total petroleum
+system (Paleozoic-Mesozoic Composite, 105001), and (4) Assessment Unit
+(South Barents Basin and Ludlov Saddle, 10500102). The code used in this
+hierarchy was consistent with that of the USGS 2000 World Petroleum
+assessment, but with an additional region (region 0) for the central Arctic Ocean.
+In cases where the newly defined provinces were essentially the same as those
+of the 2000 study, the original province numbers and names were retained.
+However, the total petroleum systems and AUs used for the CARA were almost
+entirely new. Scenarios were recorded as needed.
+Next, basic information is captured (Characteristics of Assessment Unit),
+including the area of the AU (322,000 km2), the minimum accumulation size
+assessed (50 MMBOE), and the number of discovered accumulations exceeding
+the minimum size within the AU. In the case of the SBBLS this number is 4.
+Although the form permits the use of various sizes, in practice a uniform
+minimum accumulation size of 50 MMBOE was used in every CARA AU. Each
+AU was classified into one of five categories of data density and uncertainty
+based on the highest level of exploration achieved within the AU. For the
+SBBLS, where some discoveries have been made, the appropriate uncertainty
+category (discoveries) has been identified. The number of discoveries is
+recorded.
+Geological Analysis of Assessment Unit Probability
+The CARA is a probabilistic study, so the principal input data were entered as
+conditional distributions, given the existence of at least one undiscovered
+accumulation of minimum size within the AU.
+The likelihood that the South Barents Basin and Ludlov Saddle AU contains at
+least one field equal to or greater than the minimum field size of 50 MMBOE is
+100 percent (1.00) because four gas fields greater than this minimum size and
+one natural gas discovery below this minimum size have already been found.
+The known gas fields in the AU are as large as 100 trillion cubic feet (TCF) of gas
+(IHS Energy, 2007); no oil fields have yet been found.
+Charge Probability – A charge probability of 1.00 was estimated because the
+AU area has a petroleum system sufficient to charge one field equal to or greater
+than the minimum size (50 MMBOE).
+
+                                                                                 10
+Rocks Probability – A rock probability of 1.00 was estimated because the AU
+area has sufficient reservoirs and traps to contain at least one field equal to or
+greater than the minimum size (50 MMBOE).
+Timing of Geological Events – A timing and preservation probability of 1.00
+was estimated because the AU is known to contain petroleum accumulations
+equal to or greater than the minimum size (50 MMBOE).
+Geological Analogs for Assessment
+Analog data were used to estimate the numbers and sizes of undiscovered
+accumulations. The analog dataset used in assessment of the SBBLS AU
+contains 20 AUs representing rift/sag basins in extensional and compressional
+structural settings, with clastic and/or carbonate rocks. All of the analog AUs
+have discovered fields greater than the minimum size defined for this
+assessment, 50 MMBOE. The density of prospects mapped by seismic surveys
+was used to confirm and adjust the estimated number of undiscovered fields in
+the AU.
+Numbers of undiscovered fields – The total number of undiscovered fields in
+the AU was estimated by comparing field densities (estimated number of
+undiscovered fields plus the number of discovered fields greater than 50 MMBOE
+per 1,000 km2) in the analog dataset. The density of discovered fields, which is
+smaller than the density of both discovered and undiscovered fields, was used to
+calibrate the density of the undiscovered fields. Minimum, median, and
+maximum densities of approximately 0.01, 0.15, and 0.3, respectively, were
+used. The median density, 0.15, is lower than the median densities of about 0.25
+in the analog data set and is approximately equal to the density calculated for
+mapped, undrilled prospects should these prospects become fields greater than
+the minimum specified size. The estimated maximum density (0.3) is less than
+that of the analog set (1.12, density of discovered fields, and 1.78, density of both
+discovered and undiscovered fields). Excluding extreme values that do not
+represent this AU, the maximum density of the analog dataset is 0.4 to 0.6. The
+estimated total minimum, median, and maximum numbers of undiscovered fields
+are 3, 45, and 100, respectively. The estimated number of undiscovered oil
+fields is 0 (minimum), 6 (median), and 40 (maximum) and the estimated number
+of undiscovered gas fields is 3 (minimum), 38 (median), and 100 (maximum).
+Sizes of undiscovered fields – The input minimum, median, and maximum
+undiscovered, oil and gas accumulation sizes in the South Barents Basin and
+Ludlov Saddle AU are reported in the appendix. Minimum sizes of undiscovered
+fields defined for the AU are 50 MMB of crude oil and 300 BCF (billion cubic feet)
+of natural gas (assuming 6 BCF equals 1 MMBOE). The median undiscovered
+field sizes in the AU, 110 MMB of crude oil and 660 BCF of natural gas, are
+approximately equal to the median field sizes (110 MMB of crude oil and 590
+BCF of natural gas) of the analog dataset. Absolute maximum undiscovered oil
+and gas field sizes in the AU are 10,000 MMB and 500,000 BCF. The maximum
+undiscovered gas field size, 500,000 BCF, is larger than the largest discovered
+
+                                                                                     11
+gas field, Shtokmanovskoya, in the South Barents Basin (IHS Energy, 2007).
+Expected largest undiscovered field sizes in the AU are estimated to be 1,000
+MMB of crude oil and 80,000 BCF of natural gas. These expected largest sizes
+are much smaller than the estimated maximum undiscovered field sizes. The
+expected largest gas field (80,000 BCF) is smaller than Shtokmanovskoya field
+(IHS Energy, 2007). However, the estimated maximum field size of 500 TCF
+allows for the possibility that the largest gas field in the South Barents Basin
+might not have yet been found and that another gas field might yet be discovered
+that is comparable in size to Shtokmanovskoya. Large accumulations are
+expected to occur on structural highs along the basin margins.
+Petroleum composition and properties of undiscovered fields – Oil/gas
+mixture, coproducts, and petroleum-quality properties for the AU were taken from
+analyses of petroleum discovered in the South Barents Basin, the Kolguyev
+Terrace AU, and from world statistics. An oil/gas mixture of 0 (minimum), 0.05
+(mode), and 0.4 (maximum) was estimated because the inferred source rocks
+are gas-prone, although some crude oil accumulations might be found around
+the periphery of the basin, where source rocks are thermally mature with respect
+to oil, and in the basin center if Jurassic source rocks have expelled petroleum.
+Drilling depths for undiscovered fields were estimated from interpreted seismic
+profiles and well penetrations in the AU, and from petroleum-generation models.
+Estimated depths for undiscovered oil fields range from a minimum of 1.0 km to a
+median of 3.0 km and a maximum of 5.0 km, and estimated depths for
+undiscovered gas fields range from a minimum of 1.0 km to a median of 3.0 km
+and a maximum of 6.5 km.
+Gas/oil ratios and quantities of coproducts and various ancillary data appear in
+the sections labeled Ratios for Undiscovered Accumulations, To Assess
+Coproducts and Selected Ancillary Data for Undiscovered Accumulations. An
+“OilGasPhase” program was developed to help generate distributions for
+numbers of oil versus gas accumulations in cases where the mix was uncertain.
+In this approach, which was used most commonly, the distribution for total
+number of undiscovered accumulations was estimated (commonly from analogs)
+and a separate probability distribution for oil/gas mix was also estimated. Global
+distributions of each of these variables were also available as a default.
+Using data from the finalized geological input form, a Monte Carlo simulation was
+used to generate probability distributions for each of the assessed commodities,
+as well as for coproducts and for accumulation sizes. Monte Carlo programs
+used in the CARA were modifications of the program developed for the 2000
+USGS methodology (Charpentier and Klett, 2000). The programs are Microsoft
+Excel workbooks requiring Crystal Ball software to run. During the assessment
+meeting, the Monte Carlo program was initially run with a small (1,000 to 5,000)
+number of iterations to give real-time feedback to the assessment review team,
+especially concerning the distribution for largest undiscovered accumulations. If
+the results of the calculations are considered to correctly reflect the geological
+knowledge and uncertainty, the input form was finalized. If not, the input was
+
+                                                                                12
+modified and the program was run until the results adequately reflected the
+geological model. After the assessment meeting, the program was run for
+50,000 iterations to give an official set of estimates for each AU.
+Assessment Results
+
+The mean undiscovered crude oil resource in the South Barents Basin and
+Ludlov Saddle AU is 1,939 MMB, with a 90-percent confidence interval of 241 to
+5,901 MMB. The mean volume of undiscovered nonassociated natural gas
+resource is 183,689 BCF, with a 90 percent confidence interval of 44,854 BCF to
+472,507 BCF. The largest expected undiscovered oil field size is approximately
+937 MMB, and the largest expected undiscovered gas field size is approximately
+79,307 BCF. The AU probability is 1.00.
+The USGS mean estimate of undiscovered, technically recoverable oil north of
+the Arctic Circle is more than double the amount of oil that has previously been
+found (produced plus remaining reserves) in the Arctic. On the basis of the
+USGS World Petroleum Assessment 2000, and adjusted for discoveries since
+1996, the Arctic may contain about 13 percent of the mean estimated global
+undiscovered oil resource.
+The results of the USGS Circum-Arctic Resource Appraisal suggest that all 48
+assessed AUs may contain undiscovered oil, but about 60 percent of the
+resource is concentrated in just 6 of them. The Alaska Platform stands out, with
+a mean estimate of 27.9 BBO. Other important AUs include the Canning-
+Mackenzie Deformed Margin (6.4 BBO), North Barents Basin (5.3 BBO),
+Yenisey-Khatanga (5.3 BBO), the Northwest Greenland Rifted Margin (4.9 BBO),
+and two AUs on the northeast Greenland Shelf: South Danmarkshavn Basin (4.4
+BBO) and the North Danmarkshavn Salt Basin (3.3 BBO).
+The USGS study indicates that the Arctic contains more than three times as
+much undiscovered gas as oil. The estimated largest undiscovered gas
+accumulation is almost eight times the estimated size of the largest undiscovered
+oil accumulation (22.5 BBOE versus 2.9 BBO) and therefore more likely to be
+developed. The aggregated results suggest that there is a high probability (>95
+percent chance) that more than 770 TCF of gas occurs north of the Arctic Circle,
+a one in two chance (50 percent) that more than 1,547 TCF may occur, and a
+one in twenty chance (5 percent) that as much as 2,990 TCF could be added to
+proved reserves from new discoveries. The median estimate of undiscovered gas
+is a volume larger than the total gas so far discovered in the Arctic and
+represents about 30 percent of global undiscovered conventional gas.
+Undiscovered natural gas resources are concentrated in the Russian Arctic. Two
+thirds of the undiscovered gas is in just four AUs: South Kara Sea (WSB2)-607
+TCF, South Barents Basin (EBB2)-184 TCF, North Barents Basin (EBB3)-117
+TCF, and the Alaska Platform (AA1)-122 TCF. The South Kara Sea, the offshore
+part of the northern West Siberian Basin, is the most prospective hydrocarbon
+province in the Arctic.
+
+                                                                                   13
+These estimates do not include technological or economic risks, so a significant
+fraction of the estimated undiscovered resources might never be developed.
+Development will depend upon market conditions, technological innovation, and
+the sizes of undiscovered accumulations.
+
+                                                                               14
+References Cited
+Charpentier, R.R., and Klett, T.R. 2000, Monte Carlo Simulation Method,
+Chapter MC, in U.S. Geological Survey World Petroleum Assessment 2000—
+Descriptions and Results: U.S. Geological Survey Digital Data Series DDS-60,
+version 1.1, 15 p. [4 CD-ROMS].
+http://energy.cr.usgs.gov/WEcont/chaps/MC.pdf.
+Charpentier, R.R., Klett, T.R., and Attanasi, E.D. 2008, Database for assessment
+of Assessment Unit-Scale Analogs: (Exclusive of the United States) United
+States Geological Survey Open-File Report 2007-1404.
+http://pus.usgs.gov/of/2007/1404/.
+Gautier, D.L., Bird, K.J., Charpentier, R.R., Grantz, Arthur, Houseknecht, D.H.,
+Klett, T.R., Moore, T.E., Pitman, J. K., Schenk, C.J., Schuenemeyer, J.H.,
+Sørensen, Kai, Tennyson, M.E., Valin, Z.C., and Wandrey, C.J. 2009,
+Assessment of Undiscovered Oil and Gas in the Arctic: Science v. 324, p.1175-
+1179.
+Grantz, A., Scott, R.A., Drachev, S.S., and Moore, T.E., 2009, Maps showing the
+sedimentary successions of the Arctic Region (58°-64° to 90° N) that may be
+prospective for hydrocarbons: American Association of Petroleum Geologists
+GIS-UDRIL Open-File Spatial Library. http://gisudril.aapg.org/gisdemo/.
+IHS Energy, 2007, International Petroleum Exploration and Production Database:
+IHS Energy, Englewood, Colorado.
+USGS World Assessment Team, 2000, U.S. Geological Survey World Petroleum
+Assessment 2000-Description and Results: USGS Digital Data Series DDS60,
+2000. http://pubs.usgs.gov/dds/dds-060/.
+U.S. Geological Survey, 2009, Circum-Arctic Resource Appraisal (North of the
+Arctic Circle) Assessment Units GIS Data. http://energy.usgs.gov/arctic/.
+
+                                                                               15
+Acronyms
+AU         Assessment unit
+AUP        Assessment unit probability
+BBO        Billion barrels of oil
+BCF        Billion cubic feet
+BCFG       Billion cubic feet of gas
+BGR        Bundesanstalt für Geowissenschaften und Rohstoffe
+CARA       Circum-Arctic Resource Appraisal
+DOE        United States Department of Energy
+GEUS       Geological Survey of Denmark and Greenland
+GIS        Geographic information system
+GSC        Geological Survey of Canada
+MMB        Million barrels
+MMBOE      Million barrels of oil equivalent
+MMS        United States Minerals Management Service
+NGL        Natural gas liquids
+NPD        Norwegian Petroleum Directorate
+SBBLS      South Barents Basin and Ludlov Saddle
+TCF        Trillion cubic feet
+USGS       United States Geological Survey
+
+                                                               16
+Figure
+Maps showing assessment units (AU) of the USGS Circum-Arctic Resource
+Appraisal (CARA), color-coded for risked mean estimated undiscovered
+recoverable oil (shown in green) and undiscovered recoverable natural gas
+(shown in red). Only areas north of the Arctic Circle are included in the estimates.
+Labels correspond to AU codes in the table. Maps are modified from Gautier and
+others (2009. DOE funding helped support geological mapping and assessment
+in the Russian Arctic AUs: HB1, MZB1,TPB1, TPB2, TPB3,EBB1, EBB2, EBB3,
+NZAA1, NKB1, WSB1,WSB2, YK1, YK2, NWLS1, LA1, LA2, LA3, TUN1, LV1,
+LSS1, LSS2, LSS3, ZB1, ESS1, VLK1, NCWF1, LS1, LM3, EB1,and EB2.
+
+                                                                                 17
+                                                                                 180º
+
+                                                                        HB1
+
+                                                                                    LS1
+                                              AA2
+                                                            AA1                                                                ZB
+                                                                                                                                   1
+                                                                          NCWF1
+                   NW                            AM2                                    VLK1
+                       C1
+                              AM1                                                                 ESS1
+
+                NWC2                                            CB1
+                                                                                                                        LSS2                    LV1
+                                                AM3
+                                                                                          LM3
+                                                                                                                                        LA1           3
+                                                                                                            LSS3                              LA2   LA
+                                        AM4
+                                  SB3                                                                                         LSS1
+                                                                                        LM2     LM1
+                                                                                                                  EB1
+
+                                                                                                                           1
+                                                                                                                                        YK1
+
+                                                                                                                          LS
+                                                                                                                        NW
+                        FS1
+                                                                                                                                                             TUN1
+                            FS3                                           LM2
+                                    SB1                                                                                                         YK2
+
+90º W                                                                              EB4
+                                                                                                                                                                    90º E
+                                                                                                                        NKB1
+                                                      SB2
+
+                                                                                                EB3
+                              WGEC1
+                                                          NGS1
+
+                                                  FS2                                                                                                     WSB1
+                                                                                                 EB2
+        WGEC3               WGEC2                                                                            EBB3                      WSB2
+                                                                           NG
+
+                WGEC4                                                                                                    NZ
+                                                                              S2
+
+                                                                                                                             AA
+                                                                                                                               1                      TPB3
+                                                                        EGR1
+            WG   EC5                                                                                  BP1
+                                                                                                                                                    TPB2
+                 C2
+             WGE
+                                                                     R2
+
+                                                                          EGR4                                                            B1
+                                                                EG
+
+                                                                                                                                        EB
+                                                                                                                        EBB2
+                                                                                                                                               TPB1
+                                                                    3
+                                                                 R                                          BP2
+                                                               EG
+                                                      6
+
+                                                                                                 NM2
+                                                    R
+
+                                                                                                                                                MZB1
+                                                 EG
+
+                                                          R5
+                                                      EG
+
+                                         EGR7
+
+                                                                JMM1
+                                                                                           NM1
+
+                                                                        ARCTIC CIRCLE
+
+                                                                                   0°
+
+                                                          UNDISCOVERED OIL
+                                                            (billion barrels)
+
+                                                                          >10
+                                                                          1–10
+                                                                          0.1–1
+                                                                          <0.1
+                                                                          Area not quantitatively assessed
+                                                                          Area of low petroleum potential
+                                                                                 180º
+
+                                                                      HB1
+
+                                               AA2                                 LS1
+
+                                                            AA1
+
+                                                                                                                          ZB
+                                                                                                                             1
+                 NW                                                    NCWF1
+                                                 AM2                                   VLK1
+                      C1
+                              AM1                                                               ESS1
+
+            NWC2                                             CB1
+                                                                                                                                               1
+                                                                                                                   LSS2                     LV
+                                               AM3
+                                                                                         LM3
+                                                                                                                                 LA1
+
+                                                                                                                                                3
+                                                                                                           LSS3
+
+                                                                                                                                              LA
+                                         AM4                                                                                            LA2
+                                   SB3                                                                                   LSS1
+                                                                                       LM2     LM1
+                                                                                                             EB1
+
+                                                                                                                       1
+                                                                                                                                  YK1
+
+                                                                                                                     LS
+                                                                                                                    NW
+                       FS1
+
+                                                                        LM2                                                                               TUN1
+                             FS3     SB1
+                                                                                                                                            YK2
+90º W                                                                             EB4                                                                            90º E
+                                                                                                                   NKB1
+                                                     SB2
+
+                                                                                               EB3
+                             WGEC1                        NGS1
+                                                 FS2                                                                                                WSB1
+                                                                                                EB2
+        WGEC3              WGEC2                                                                                                 WSB2
+                                                                                                            EBB3
+                                                                                                                    NZ
+                                                                            NG
+
+                WGEC4
+                                                                                                                      AA
+                                                                            S2
+
+                                                                                                                          1                        TPB3
+                                                                      EGR1                           BP1
+                C5
+           WGE                                                                                                                                 TPB2
+                EC2                                                                                                                     1
+                                                                  R2
+
+            W G                                                        EGR4                                                           B
+                                                                                                                     EBB2          EB
+                                                                 EG
+
+                                                                                                                                            TPB1
+                                                                 3                                         BP2
+                                                             EGR
+                                                                                                NM2
+                                                     R6
+
+                                                                                                                                            MZB1
+                                                 EG
+
+                                                       5R
+                                                     EG
+
+                                          EGR7
+
+                                                             JMM1
+                                                                                         NM1
+
+                                                                  ARCTIC CIRCLE
+
+                                                                                  0°
+
+                                                            UNDISCOVERED GAS
+                                                              (trillion cubic feet)
+
+                                                                            >100
+                                                                            6–100
+                                                                            1–6
+                                                                            <1
+                                                                            Area not quantitatively assessed
+                                                                            Area of low petroleum potential
+Table
+Partial results of the USGS Circum-Arctic Resource Appraisal. AU codes
+correspond to labeled Assessment Units shown on the maps. AUP is
+Assessment Unit Probability, defined as the probability of the existence of at
+least one accumulation with 50,000 barrels or more of oil-equivalent oil or natural
+gas (MMBOE). Oil accumulations are defined as having less than 20,000 cubic
+feet of gas per barrel of liquids. Oil refers to oil in oil accumulations and non-
+associated gas refers to gas in gas accumulations. Associated/dissolved gas is
+natural gas occurring in oil accumulations. Natural gas liquids (NGL) are
+hydrocarbon liquids separated from associated/dissolved gas. Liquids include
+both oil and other hydrocarbon liquids in nonassociated gas accumulations.
+Quantities of oil, NGL, and liquids are reported in millions of barrels (MMBO,
+MMBNGL, and MMBL, respectively). Fractile values (F95, F50, F5) are not
+additive. F95 represents a 19 in 20 chance, F50 represents a 1 in 2 chance, and
+F5 represents a 1 in 20 chance of the occurrence of at least the amount
+tabulated. Quantities of nonassociated gas and associated/dissolved gas are
+reported in billions of cubic feet (BCF). Results are only listed for the AUs of the
+Russian Arctic, the assessment of which was partially supported by DOE award
+DE-A126-05NT15538. Full results and additional information can be found in
+Gautier and others (2009) and on the USGS Energy Program Arctic website.
+(http://energy.usgs.gov/arctic/).
+
+                                                                                  18
+    AU Code                     Assessment Unit                  AUP                       Oil in Oil Accumulations                               Associated/Dissolved Gas in Oil Accumulations                     Natural Gas Liquids in Oil Accumulations
+                                                                              F95             F50                 F5           Mean         F95               F50              F5              Mean          F95             F50                F5             Mean
+North America
+AA1             Alaskan Platform                                       1.00
+AA2             Alaskan Fold- and Thrust-Belt                          1.00
+CB1             Chukchi Borderland                                     0.05
+AM1             Canning-Mackenzie Deformed Margin                      1.00
+AM2             Alaska Passive Margin                                  0.54
+AM3             Canada Basin                                           0.05
+AM4             Canada Passive Margin                                  0.54
+HB1             Hope Basin                                             0.17            0               0                  0             2             0               0               0                 5           0                 0                0               0
+FS1             Western Franklinian Shelf                              0.09
+FS2             Eastern Franklinian Shelf                              0.09
+FS3             Boothia-Cornwallis Uplift                              0.09
+SB1             Sverdrup Mesozoic                                      1.00
+SB2             Sverdrup Upper Paleozoic                               0.07
+SB3             Banks Island-Sverdrup Rim                              0.22
+NWC1            Devonian Reefs and Clastic Wedge                       0.10
+NWC2            Lower Paleozoic Subsalt and Carbonate Platform         0.32
+Greenland
+EGR1            North Danmarkshavn Salt Basin                          0.65
+EGR2            South Danmarkshavn Basin                               0.72
+EGR3            Northeast Greenland Volcanic Province                  0.26
+EGR4            Thetis Basin                                           0.49
+EGR5            Liverpool Land Basin                                   0.29
+EGR6            Jameson Land Basin                                     0.07
+EGR7            Jameson Land Basin Subvolcanic Extension               0.04
+JMM1            Jan Mayen Microcontinent                               0.06
+NGS1            Lincoln Sea Basin                                      0.50
+NGS2            Wandel Sea Basin                                       0.22
+WGEC1           Eurekan Structures                                     0.25
+WGEC2           Northwest Greenland Rifted Margin                      0.50
+WGEC3           Northeast Canada Rifted Margin                         0.50
+WGEC4           Baffin Bay Basin                                       0.28
+WGEC5           Greater Ungava Fault Zone                              0.30
+Europe
+BP1             Barents Platform North                                 0.36
+BP2             Barents Platform South                                 1.00
+NM1             Arctic Norwegian Sea                                   1.00
+NM2             Western Barents Margin                                 0.49
+Siberia
+MZB1            Northwest Mezen' Basin                                 0.01
+TPB1            Northwest Izhma-Pechora Depression                     0.02
+TPB2            Main Basin Platform                                    1.00         1523            3008                5703      3225            1836            3884            7949            4262              40              89              190                99
+TPB3            Foredeep Basins                                        0.54            0               0                 410        96               0               0             573             127               0               0               13                 3
+EBB1            Kolguyev Terrace                                       1.00            0             110                 398       145               0             155             973             275               0               2               14                 4
+EBB2            South Barents Basin and Ludlov Saddle                  1.00          241            1300                5901      1939             312            2175           11900            3669               3              27              163                50
+EBB3            North Barents Basin                                    0.50            0            1197               21424      5322               0            1748           41460           10145               0              20              557               137
+NZAA1           Novaya Zemlya Basins and Admiralty Arch                0.09
+NKB1            North Kara Basins and Platforms                        0.50            0             488               6810       1807            0                519           11246            2845               0              12              272                68
+WSB1            Northern West Siberian Onshore Gas                     1.00          309            1252               4070       1601         1724               7367           24644            9527              35             152              513               197
+WSB2            South Kara Sea Offshore                                1.00          572            2053               6023       2507         3183              12064           36779           14933              64             248              763               308
+YK1             Khatanga Saddle                                        0.50            0               0               1376        327            0                  0             932             206               0               0               25                 6
+YK2             Yenisey-Khatanga Basin                                 1.00         2201            4847               9716       5257        11604              26571           55375           29078             305             710             1528               786
+NWLS1           Northwest Laptev Sea Shelf                             0.40            0               0                894        172            0                  0            1435             267               0               0               38                 7
+LA1             Lena-Anabar Basin                                      0.46            0               0               7207       1913            0                  0            6022            1502               0               0              163                40
+LA2             Lena-Anabar Basin Updip                                0.08
+LA3             Sukhan-Motorchun Riphean Rift                          0.07
+TUN1            Tunguska Basin                                         0.06
+LV1             Northern Priverkhoyansk Foredeep                       0.40           0                0                1741       379                0              0            1455                 298          0                0               39                 8
+LSS1            West Laptev Grabens                                    0.54           0              815               12911      2646                0           1008           17982                3897          0               26              475               105
+LSS2            East Laptev Horsts                                     0.03
+LSS3            Anisin-Novosibirsk Basins                              0.43           0                0               1837           469             0               0           2901                 693          0                 0              79                19
+ZB1             Zyryanka Basin                                         0.50           0                0                286            72             0               0            496                 106          0                 0              13                 3
+ESS1            East Siberian Sea Basin                                0.22           0                0                118            20             0               0            246                  39          0                 0               4                 1
+VLK1            Vilkitskii Basin                                       0.29           0                0                530            98             0               0           1043                 198          0                 0              19                 4
+NCWF1           North Chukchi-Wrangel Foreland Basin                   0.24           0                0                493            86             0               0            948                 172          0                 0              17                 3
+LS1             Long Strait                                            0.08
+Arctic Ocean
+LM1             Makarov Basin Margin                                   0.14
+LM2             Podvodnikov-Makarov Basins                             0.04
+LM3             Siberian Passive Margin                                0.42           0                0               4027           984             0               0           6592                1538          0                 0             179                42
+EB1             Lena Prodelta                                          0.43           0                0               4326           979             0               0           6985                1524          0                 0             189                41
+EB2             Nansen Basin Margin                                    0.25           0                0               2087           364             0               0           3383                 568          0                 0              91                15
+EB3             Nansen Basin                                           0.08
+EB4             Amundsen Basin                                         0.07
+                Assessment Unit                            Gas in Gas Accumulations                                Liquids in Gas Accumulations                             Largest Oil Accumulation                                    Largest Gas Accumulation
+                                                 F95         F50             F5         Mean          F95              F50             F5          Mean         F95          F50              F5             Mean          F95            F50             F5         Mean
+North America
+Alaskan Platform
+Alaskan Fold- and Thrust-Belt
+Chukchi Borderland
+Canning-Mackenzie Deformed Margin
+Alaska Passive Margin
+Canada Basin
+Canada Passive Margin
+Hope Basin                                             0             0           4458           650           0                0              78           11          55           72                 132            80          483          960            2538          1154
+Western Franklinian Shelf
+Eastern Franklinian Shelf
+Boothia-Cornwallis Uplift
+Sverdrup Mesozoic
+Sverdrup Upper Paleozoic
+Banks Island-Sverdrup Rim
+Devonian Reefs and Clastic Wedge
+Lower Paleozoic Subsalt and Carbonate Platform
+Greenland
+North Danmarkshavn Salt Basin
+South Danmarkshavn Basin
+Northeast Greenland Volcanic Province
+Thetis Basin
+Liverpool Land Basin
+Jameson Land Basin
+Jameson Land Basin Subvolcanic Extension
+Jan Mayen Microcontinent
+Lincoln Sea Basin
+Wandel Sea Basin
+Eurekan Structures
+Northwest Greenland Rifted Margin
+Northeast Canada Rifted Margin
+Baffin Bay Basin
+Greater Ungava Fault Zone
+Europe
+Barents Platform North
+Barents Platform South
+Arctic Norwegian Sea
+Western Barents Margin
+Siberia
+Northwest Mezen' Basin
+Northwest Izhma-Pechora Depression
+Main Basin Platform                                 1789         4951           12286       5718              37            108             279           127         192          448            1286               549       555            1156            3172       1404
+Foredeep Basins                                        0         6147           21218       7018               0            130             477           155          65          125             388               163      1010            1772            3536       1946
+Kolguyev Terrace                                     973         2039            4605       2313              22             54             129            62          68          110             232               125       516             851            1673        940
+South Barents Basin and Ludlov Saddle              44854       142293          472507     183689             126            460            2080           714         108          527            3235               937      9519           46515          277248      79307
+North Barents Basin                                    0        36814          450041     117467               0             98            1808           456         527         2576           14503              4284     12417           57977          305028      92348
+Novaya Zemlya Basins and Admiralty Arch
+North Kara Basins and Platforms                        0         4115           44522      12129               0            105            1198         322           209          707             2725              968      1404            4548           16851       6148
+Northern West Siberian Onshore Gas                  8669        26154           70336      31136             269            825            2241         984           123          342             1061              431      1652            4547           13298       5560
+South Kara Sea Offshore                           154681       513304         1372510     607289            4799          16000           44090       19171           183          551             1831              712     31734          134633          553436     189354
+Khatanga Saddle                                        0            0            6764       1797               0              0             182          48            81          184              495              221       405             733            1994        898
+Yenisey-Khatanga Basin                             38629        66089          108413      68883            1009           1754            2929        1835           381          922             2534             1108      3791            7960           18396       9057
+Northwest Laptev Sea Shelf                             0            0           18992       4221               0              0             513         112            64          160              649              232       804            2431            8641       3242
+Lena-Anabar Basin                                      0            0            2538        604               0              0              69          16           236          620             1654              731       417             550             755        563
+Lena-Anabar Basin Updip
+Sukhan-Motorchun Riphean Rift
+Tunguska Basin
+Northern Priverkhoyansk Foredeep                       0            0            4341       1044              0               0             117            28         105          295             1032              393          479          605             807           619
+West Laptev Grabens                                    0        15070           90382      25194              0             395            2392           670         152          325             3091              749         1398         2678           18234          5082
+East Laptev Horsts
+Anisin-Novosibirsk Basins                              0            0           10694          2779           0               0              286           74          93          183                 467           217          562         1096            2765          1294
+Zyryanka Basin                                         0          942            7746          2175           0              22              209           58          63          108                 282           132          586         1128            2613          1296
+East Siberian Sea Basin                                0            0            3377           579           0               0               61           10          56           72                 133            80          410          802            2227           989
+Vilkitskii Basin                                       0            0           29850          5544           0               0              528           98          53          108                 721           215         1163         4325           19122          6359
+North Chukchi-Wrangel Foreland Basin                   0            0           34335          5894           0               0              607          103          53          110                 739           218         1480         5115           21098          7247
+Long Strait
+Arctic Ocean
+Makarov Basin Margin
+Podvodnikov-Makarov Basins
+Siberian Passive Margin                                0             0          20118       4684              0                0            541           125         148          279              571              307          780         1527            3295          1705
+Lena Prodelta                                          0             0          55538      13982              0                0           1489           373         150          571             2513              843         1987         6097           21017          8002
+Nansen Basin Margin                                    0             0          18855       3401              0                0            504            91         116          314             1006              402          967         2396            7024          2946
+Nansen Basin
+Amundsen Basin
+        APPENDIX: GEOLOGICAL DATA INPUT FORM FOR THE CIRCUM-ARCTIC RESOURCE APPRAISAL
+                 WITH INPUT DATA FROM THE SOUTH BARENTS BASIN ASSESSMENT UNIT
+
+                                          IDENTIFICATION INFORMATION
+Assessment Geologist:          T.R. Klett                                                 Date:         12-Feb-08
+Region:                        Former Soviet Union                                        Number:       1
+Province:                      Eastern Barents Basins                                     Number:       1050
+Total Petroleum System:        Paleozoic-Mesozoic Composite                               Number:       105001
+Assessment Unit:               South Barents Basin and Ludlov Saddle                      Number:       10500102
+Scenario:                                                                                 Number:
+Based on Data as of:           IHS Energy (2007)
+Notes from Assessor:
+
+                                  CHARACTERISTICS OF ASSESSMENT UNIT
+
+Area of assessment unit:                                           322,000 square kilometers
+
+Minimum assessed accumulation size:                                  50          MMBOE (grown)
+
+No. of discovered accumulations exceeding minimum size:                   Oil:      0            Gas:         4
+
+Uncertainty Class:             Check One                  Number
+   Producing fields
+   Discoveries                     X                         4
+   Wells
+   Seismic
+   No seismic
+
+Median size (grown) of discovered oil accumulations (MMBO):
+                                                 1st 3rd            2nd 3rd                  3rd 3rd
+Median size (grown) of discovered gas accumulations (BCFG):
+                                                 1st 3rd            2nd 3rd                  3rd 3rd
+
+                                      ANALOGS USED IN ESTIMATING INPUT
+
+      Purpose                              Analog or Analog Set
+
+  1 Number and sizes                       Rift/sag
+                                           Prospect maps
+                                           Possibility of reefs
+
+  2 Composition                            Produced hydrocarbons on Kolguyev Island and analyses of
+                                           South Barents hydrocarbons
+                                           IHS Energy (2007)
+
+  3
+
+  4
+Assessment Unit (name, no.)                 South Barents Basin and Ludlov Saddle, 10500102
+Scenario (name, no.)
+
+                                                                                        Probability of occurrence (0-1.0)
+Scenario Probability:
+
+Assessment-Unit Probabilities:              (Adequacy for at least one undiscovered field of minimum size)
+
+   Attribute                                                                            Probability of occurrence (0-1.0)
+1. CHARGE: Adequate petroleum charge:                                                                          1.0
+2. ROCKS: Adequate reservoirs, traps, and seals:                                                               1.0
+3. TIMING OF GEOLOGIC EVENTS: Favorable timing:                                                                1.0
+
+Assessment-Unit GEOLOGIC Probability (Product of 1, 2, and 3):                                                1.000
+
+                                          UNDISCOVERED ACCUMULATIONS
+
+Number of Undiscovered Accumulations: How many undiscovered accumulations exist
+                  that are at least the minimum size?: (uncertainty of fixed but unknown values)
+
+    Total Accumulations:                  minimum (>0)      3          median      45        maximum           100
+
+    Oil/Gas Mix:                             minimum         0           mode     0.05       maximum           0.4
+                                      X     number of oil accumulations / number of total accumulations
+                                            number of oil accumulations / number of gas accumulations
+                                            number of gas accumulations / number of oil accumulations
+
+    Oil Accumulations:                        minimum       0          median       6        maximum            40
+    Gas Accumulations:                        minimum       3          median      38        maximum           100
+
+Sizes of Undiscovered Accumulations: What are the sizes (grown) of the above accumulations?:
+                              (variations in the sizes of undiscovered accumulations)
+
+    Oil in Oil Accumulations (MMBO):          minimum       50         median     110        maximum          10000
+    Gas in Gas Accumulations (BCFG):          minimum      300         median     660        maximum         500000
+
+                   RATIOS FOR UNDISCOVERED ACCUMULATIONS, TO ASSESS COPRODUCTS
+                            (variations in the properties of undiscovered accumulations)
+
+Oil Accumulations:                                       minimum                 median                    maximum
+     Gas/oil ratio (CFG/BO):                                 0                    1300                      20000
+     NGL/gas ratio (BNGL/MMCFG):                             0                     11                         82
+
+Gas Accumulations:                                       minimum                 median                    maximum
+    Liquids/gas ratio (BLIQ/MMCFG):                          0                     2                         75
+Assessment Unit (name, no.)                South Barents Basin and Ludlov Saddle, 10500102
+Scenario (name, no.)
+
+                       SELECTED ANCILLARY DATA FOR UNDISCOVERED ACCUMULATIONS
+                             (variations in the properties of undiscovered accumulations)
+
+Oil Accumulations:                                    minimum                median                maximum
+     API gravity (degrees):                              30                   40                     55
+     Viscosity (centipoise)
+     Sulfur content of oil (%):                           0                    0.3                   1.5
+     Depth (m) of water (if applicable):                 100                   200                   350
+
+                                                      minimum       F75      median          F25   maximum
+    Drilling Depth (m):                                1000                   3000                  5000
+
+Gas Accumulations:                                    minimum                median                maximum
+    Inert gas content (%):                                0                    2                      60
+    Carbon dioxide content (%):                           0                   0.2                     10
+    Hydrogen sulfide content (%):                         0                    0                      0
+    Depth (m) of water (if applicable):                 100                   200                    350
+
+                                                      minimum       F75      median          F25   maximum
+    Drilling Depth (m):                                1000                   3000                  6500
+U.S. Department of the Interior
+KEN SALAZAR, Secretary
+
+U.S. Geological Survey
+Marcia K. McNutt, Director
+
+U.S. Geological Survey, Reston, Virginia: July 2010
+
+Any use of trade, product, or firm names is for descriptive purposes only and does not imply
+endorsement by the U.S. Government.
+National Energy Technology Laboratory
+
+626 Cochrans Mill Road
+P.O. Box 10940
+Pittsburgh, PA 15236-0940
+
+3610 Collins Ferry Road
+P.O. Box 880
+Morgantown, WV 26507-0880
+
+13131 Dairy Ashford, Suite 225
+Sugar Land, TX 77478
+
+1450 Queen Avenue SW
+Albany, OR 97321-2198
+
+2175 University Ave. South
+Suite 201
+Fairbanks, AK 99709
+
+Visit the NETL website at:
+www.netl.doe.gov
+
+Customer Service:
+1-800-553-7681

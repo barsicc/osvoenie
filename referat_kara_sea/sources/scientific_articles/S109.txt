@@ -1,0 +1,976 @@
+Solid Earth, 6, 153–172, 2015
+www.solid-earth.net/6/153/2015/
+doi:10.5194/se-6-153-2015
+© Author(s) 2015. CC Attribution 3.0 License.
+
+A lithosphere-scale structural model of the Barents Sea and
+Kara Sea region
+P. Klitzke1,2 , J. I. Faleide3 , M. Scheck-Wenderoth1,2 , and J. Sippel1
+1 Helmholtz Centre Potsdam, GFZ German Research Centre for Geosciences, Potsdam, Germany
+2 RWTH Aachen University, Dept. of Geology, Geochemistry of Petroleum and Coal, Aachen, Germany
+3 Department of Geosciences, University of Oslo, Oslo, Norway
+
+Correspondence to: P. Klitzke (klitzke@gfz-potsdam.de)
+
+Received: 27 May 2014 – Published in Solid Earth Discuss.: 10 July 2014
+Revised: 2 December 2014 – Accepted: 14 December 2014 – Published: 12 February 2015
+
+Abstract. We introduce a regional 3-D structural model of           sphere (∼ 110–150 km) and a high-velocity/density anomaly
+the Barents Sea and Kara Sea region which is the first to com-      in the lithospheric mantle. This anomaly, in turn, correlates
+bine information on the sediments and the crystalline crust as      with an area where only little late Cenozoic uplift/erosion
+well as the configuration of the lithospheric mantle. There-        was observed.
+fore, we have integrated all available geological and geo-
+physical data, including interpreted seismic refraction and re-
+flection data, seismological data, geological maps and previ-
+ously published 3-D models into one consistent model. This          1   Introduction
+model resolves four major megasequence boundaries (earli-
+est Eocene, mid-Cretaceous, mid-Jurassic and mid-Permian)           Though of increasing economic relevance, intra-continental
+the top crystalline crust, the Moho and a newly calculated          basins are poorly understood in terms of processes control-
+lithosphere–asthenosphere boundary (LAB). The thickness             ling their evolution (Allen and Allen, 2013; Cloetingh and
+distributions of the corresponding main megasequences de-           Burov, 2011; Gac et al., 2013; Heine et al., 2008). To com-
+lineate five major subdomains (the northern Kara Sea, the           prehend the influence of possible causative subsidence mech-
+southern Kara Sea, the eastern Barents Sea, the western Bar-        anisms as mentioned by Heine et al. (2008), the present-
+ents Sea and the oceanic domain comprising the Norwegian–           day lithosphere-scale geological configuration needs to be
+Greenland Sea and the Eurasia Basin). Relating the subsi-           assessed. Essential progress can be made by integrated 3-D
+dence histories of these subdomains to the structure of the         models. Such models can be used as a base for structural
+deeper crust and lithosphere sheds new light on possible            analysis but also to constrain the distribution of physical
+causative basin forming mechanisms that we discuss.                 properties (i.e. density and temperature) and their impact on
+   The depth configuration of the newly calculated LAB and          different processes.
+the seismic velocity configuration of the upper mantle cor-            The Barents Sea and Kara Sea region is situated in such an
+relate with the younger history of this region. The western         intra-continental setting bordered by the ancient East Euro-
+Barents Sea is underlain by a thinned lithosphere (80 km) re-       pean Craton in the southeast and two young passive margins
+sulting from multiple Phanerozoic rifting phases and/or the         in the north and in the west (Fig. 1). This region has expe-
+opening of the NE Atlantic from Paleocene/Eocene times              rienced a manifold tectonic history involving multiple oro-
+on. Notably, the northwestern Barents Sea and Svalbard are          genies, episodes of intense subsidence and young continen-
+underlain by thinnest continental lithosphere (60 km) and a         tal break-up. Thereby, the orogenies are assumed to locally
+low-velocity/hot upper mantle that correlates spatially with a      have set the structural grain of the deeper lithosphere which
+region where late Cenozoic uplift was strongest. As opposed         entailed different types of basin formation mechanisms. Due
+to this, the eastern Barents Sea is underlain by a thicker litho-   to the assumed potential for hydrocarbon resources, the geo-
+                                                                    dynamically complex setting of the Barents Sea and Kara Sea
+
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+154                                                                     P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+region has been in the focus of both academic and industry-
+driven studies for decades which have contributed to the ac-
+cumulation of a large geological and geophysical database.
+   Recent studies made significant progress in integrating
+data for larger parts of the Barents Sea. These studies focused
+either on the sedimentary succession (Clark et al., 2013a, b;
+Henriksen et al., 2011b), the crystalline crust (Hauser et
+al., 2011; Marello et al., 2013; Ritzmann et al., 2007) or ad-
+dress only subparts of the Barents Sea and Kara Sea region
+(Barrère et al., 2009; Breivik et al., 2003, 2005; Glørstad-
+Clark, 2011; Piskarev and Shkatov, 2012; Ritzmann and
+Faleide, 2009). Consequently, there is only limited knowl-
+edge about spatial correlations between the thickness config-
+uration of the sedimentary succession, the crystalline crust
+and the lithospheric mantle for the greater Barents Sea and
+Kara Sea region.
+   In the frame of this study, we extend the region of interest
+beyond the Barents and Kara shelves towards the west- and
+northwards adjoining young oceanic domains and towards             Figure 1. Superimposed bathymetry/topography (IBCAO 3.0;
+the ancient craton (Baltica) in the southeast. We aim to in-       Jakobsson et al., 2012) with outlines of structural highs (red) and
+                                                                   lows (blue). The stippled lines mark the position of five repre-
+tegrate all publicly available geological and geophysical data
+                                                                   sentative profiles (see Fig. 6) crossing most prominent geologi-
+(from the Norwegian and Russian parts of the shelf) into a
+                                                                   cal provinces. (AH) – Admiralty High; (BB) – Bjørnøya Basin;
+lithosphere-scale regional 3-D model that resolves the first-      (GH) – Gardarbanken High; (HFB) – Hammerfest Basin; (HB) –
+order characteristics of the sedimentary fill, the crystalline     Harstad Basin; (HJH) – Hjalmar Johansen High; (LH) – Loppa
+crust and the lithospheric mantle. Subsequently, we analyse        High; (LS) – Ludlov Saddle; (NB) – Nordkapp Basin; (NH) –
+how far characteristics of the 3-D structural model provide        Norsel High; (NSW) – North Siberian Weir; (OB) – Olga Basin;
+new insights into the relation between these different depth       (SB) –Sørvestsnaget Basin; (SKT) – South Kara Trough; (SHB) –
+levels in different subdomains. In particular, the variations of   Stappen High with Bjørnøya Island; (TD) – Tiddlybanken Basin;
+sedimentary thicknesses (subdivided into megasequences re-         (TO) – Timan Orogen; (TB) – Tromsø Basin; (VU) – Vize-Ushakov
+flecting the main geological episodes) over the entire region      Rise; (VVP) – Vestbakken Volcanic Province.
+are integrated with information on the underlying lithosphere
+for the first time and discussed in the context of regional geo-
+dynamics.                                                          latest Precambrian in the course of the Timanian Orogeny
+                                                                   (Fig. 2; Kostyuchenko et al., 2006; Roberts and Siedlecka,
+                                                                   2002). The Timan Range, a present-day topographic high
+2   Geological setting                                             (Fig. 1) located in the southeast of the study area, gives proof
+                                                                   of this collisional event. Orogeny-associated terrane accre-
+The tectonic evolution of the Barents Sea and Kara Sea re-         tion proceeded northeastwards from the Timan Range at least
+gion (Fig. 1) is characterised by several orogenic phases          to the Timan–Pechora Basin and is assumed to have con-
+which assembled different lithospheric domains (Gac et             tinued northwards beneath the eastern Barents Sea as far as
+al., 2013; Gee et al., 2006; Gudlaugsson et al., 1998; Marello     to the northern Kara Sea (Gee and Pease, 2004; Lorenz et
+et al., 2013; Otto and Bailey, 1995; Pease and Scott, 2009;        al., 2007; Pease and Scott, 2009). Earliest sedimentation in
+Ritzmann and Faleide, 2007, and references therein). It is         these regions is reported as having occurred in latest Pre-
+well known that the composite and heterogeneous basement           cambrian times (Ivanova et al., 2011; Klimenko et al., 2011;
+has experienced locally intense subsidence since Paleozoic         Lorenz et al., 2007).
+times that gave way to the accumulation of up to a 20 km              The Caledonian Orogeny, caused by the collision between
+thick sedimentary succession (Johansen, 1992). The corre-          Laurentia and Baltica to form Laurussia (Late Cambrian to
+sponding present-day configuration of the top crystalline          Silurian), affected mainly the area of the western Barents
+crust reveals structural highs and lows of different wave-         Sea. The crystalline crust beneath the southwestern Bar-
+lengths across the Barents and Kara shelves implying that          ents Sea is supposed to represent the northward continuation
+subregions are underlain by different basement domains and         of the Caledonian thrusts cropping out in northern Norway
+structural grains (Figs. 1, 2).                                    (Figs. 1, 2; Breivik et al., 1998, 2005; Marello et al., 2013;
+   After the assemblage of the East European Craton                Ritzmann and Faleide, 2007). The onshore fold and thrust
+(Baltica) at ca. 2.0–1.7 Ga (Bogdanova et al., 2008) the first     belts compose a series of NE–SW striking nappes – a strike
+major tectonic event involving plate accretion occurred in the     direction that dominates also the structural configuration of
+
+Solid Earth, 6, 153–172, 2015                                                                   www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                          155
+
+the basement beneath the southwestern Barents Sea (Breivik
+et al., 1998; Faleide et al., 1993; Ritzmann and Faleide,
+2007). This trend is disputed in recent studies (Gernigon
+and Brönner, 2012; Gernigon et al., 2014). However, the
+oldest sediments found in the depressions of the southwest-
+ern Barents Sea result from post-Caledonian rifting in late
+Carboniferous–Permian times and gave way to the formation
+of e.g. the Nordkapp Basin and the Ottar Basin (Fig. 2; Gud-
+laugsson et al., 1998; Ritzmann and Faleide, 2007).
+   The last major orogenic phase affecting larger parts of the
+Barents Sea and Kara Sea, the Uralian Orogeny, was initiated
+by the collision of Laurussia with Siberia and Kazakhstan
+in Late Devonian to Late Permian times (Fig. 2; Otto and
+Bailey, 1995; Puchkov, 2009; Steer et al., 1998). Evidence
+of this compressional deformation are the Ural Mountains
+which continue structurally along the Pai-Khoi and Novaya
+Zemlya fold-and-thrust belts as far as to the Taimyr region
+in the northeast of the study area (Fig. 1). In Late Triassic
+to ?Early Jurassic (post-Uralian) times, Novaya Zemlya ex-
+perienced final westwards upthrusting. The westward curved
+shape of the Novaya Zemlya fold-and-thrust belt structurally
+delimits the southern Kara Sea (Fig. 1) whereby the curvature
+is assumed to originate from a pre-collisional embayment of
+Laurussia (Scott and Howard, 2010).
+   Another tectonic event at the Permian–Triassic transition
+was the magmatic activity associated with the eruption of
+the Siberian Traps. Traces of this event are found directly
+eastwards of the southern Kara Sea in the West Siberian
+Basin as widespread flood basalts and long-lived subsidence
+from Middle Jurassic to Cenozoic times (Fig. 2; Nikishin et
+al., 2002; Reichow et al., 2005; Saunders et al., 2005; Vyssot-
+ski et al., 2006). Time-wise coinciding with these collisional
+and thermal events, the East Barents Sea basin experienced
+major subsidence in Permian–Triassic times (Figs. 1, 2). Sev-
+eral published studies discuss the nature of the observed
+rapid subsidence in the East Barents Sea basin since there are
+no major extensional faults and thus a classical rift scenario
+is unlikely (Aplonov et al., 1996; Gac et al., 2012, 2013;
+Ivanova et al., 2011; Johansen, 1992; O’Leary et al., 2004;
+Petrov et al., 2008; Semprich et al., 2010). Oldest sediments
+of the South Kara Sea basin are assumed to have accumulated
+                                                                  Figure 2. Stratigraphic megasequences resolved in the 3-D struc-
+in response to rifting in the Late Permian to Middle Triassic
+                                                                  tural model in relation to regional tectonic events.
+followed by a post-rift thermal subsidence phase lasting until
+Cenozoic times (Nikishin et al., 2011).
+   In Middle Jurassic to Early Cretaceous times intense rift-
+ing occurred in the southwestern Barents Sea (Fig. 2; Faleide     formed a sheared margin during this time interval (Faleide et
+et al., 1993, 2008). Thereby, the location of maximum subsi-      al., 1993, 2008).
+dence shifted westwards with respect to the older (Carbonif-         Continental break-up of the Norwegian–Greenland Sea
+erous and Late Permian–Triassic) rift basins and resulted in      and the Eurasia Basin started in late Paleocene to earliest
+the development of the deep Tromsø Basin, the Sørvestsnaget       Eocene times (Figs. 1, 2; Faleide et al., 2008). Thereby,
+Basin and the Bjørnøya Basin (Fig. 1). A renewed westward         the Norwegian–Greenland Sea opened gradually northwards
+shift in the locus of rifting took place in Late Cretaceous to    along a megashear system which constituted a structural link
+Paleocene times and resulted in the deposition of thick sedi-     to the Eurasia Basin. The oceanic gateway between the two
+mentary sequences in the Sørvestsnaget Basin and the Vest-        oceans (Fram Strait) opened finally in mid-Miocene times
+bakken Volcanic Province along the western Barents Sea that       (Engen et al., 2008).
+
+www.solid-earth.net/6/153/2015/                                                                  Solid Earth, 6, 153–172, 2015
+156                                                                     P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+   In the Pliocene–Pleistocene large areas of the Barents         sequences, so-called megasequences, separated by distinct
+Shelf experienced uplift and glacial erosion (Fig. 2; Dimakis     unconformities. These unconformities either represent ero-
+et al., 1998; Dörr et al., 2012; Faleide et al., 1996; Green      sional surfaces or separate differently deformed sedimentary
+and Duddy, 2010; Henriksen et al., 2011a; Sobolev, 2012).         units. In the frame of this study, we used this sedimentary
+As a consequence, huge submarine fans (trough-mouth fans;         subdivision in order to differentiate the sedimentary cover of
+Laberg and Vorren, 1995, 2000) evolved in the adjacent            the entire Barents Sea and Kara Sea region even if we knew
+oceanic–crustal domains along the western and northern pas-       that the various regions have had a different evolution partic-
+sive margins (Fig. 1; Knies et al., 2009).                        ularly in the Paleozoic. Therefore, we reviewed and evaluated
+                                                                  all available published well and seismic data and traced the
+                                                                  megasequence boundaries carefully across the entire study
+3     Model construction                                          area (Table 1; Faleide et al., 1993; Henriksen et al., 2011b;
+                                                                  Ivanova et al., 2011; Johansen, 1992). Even though the data
+The study area covers beside the Barents and Kara shelves         differ significantly in their underlying methodical approach,
+also the oceanic domain adjoining west and northwards, and        focus, data resolution and size of the studied area, they com-
+additionally, the continental mainland of Baltica southeast-      prise depth information on at least one of the mentioned
+wards (Fig. 1). To investigate the greater Barents Sea/Kara       megasequence boundaries (Table 1). Consequently, we were
+Sea region on the scale of the entire lithosphere, we have        able to model the depth configuration of the earliest Eocene,
+integrated multidisciplinary data such as well information,       the mid-Cretaceous, the mid-Jurassic and the mid-Permian
+interpreted seismic refraction and reflection data, geological    megasequence boundaries (Fig. 2). The base of the sedi-
+maps and published 3-D models (Table 1). Since most public        mentary succession is equivalent to the top of the crystalline
+data were only available as bitmap information, ArcGIS 10         crust. The bathymetry/topography (BCAO 3.0; Fig. 1; Jakob-
+(Esri) was used to georeference such data sets into a consis-     sson et al., 2012), the four megasequence boundaries and the
+tent coordinate system (UTM 35N). The georeferenced maps          top crystalline crust were used to calculate the thickness dis-
+and profiles were imported and compiled with other available      tributions of five megasequences (Fig. 2). Thereby, subtrac-
+data using Petrel 2011.1 (Schlumberger), where the georef-        tion of successive depth levels disclosed inconsistencies of
+erencing was rechecked for accuracy. After having identified      the 2-D interpolated surfaces due to intersections. Such inter-
+the main geological units, the respective scattered data for      sections were encountered in particular in the southwestern
+each surface were interpolated using EarthVision 8.0 (Dy-         Barents shelf, where large-offset faults are present. To obtain
+namic Graphics, INC) applying the Minimum Tension Grid-           a consistent 3-D structural model, spatial intersections were
+ding algorithm. Thereby, available vertical fault sets for the    corrected which entailed a renewed cross-check with the in-
+Mesozoic and Paleozoic surfaces were considered as vertical       put data. In regions where a megasequence is absent due to
+interpolation barriers (Fig. 3e, f; Faleide et al., 1993, 2008,   non-deposition or erosion, the subtracted base of the megase-
+2010; Gudlaugsson et al., 1998). The resulting interpolated       quence was set equal to the overlying top.
+surfaces were again visually compared to seismic profiles            Analogously, the thickness of the crystalline crust has been
+and potentially corrected when disagreeing with observations      calculated as the difference between the surfaces of the top
+or when intersecting with other surfaces.                         crystalline crust and the crust–mantle boundary (Moho) as
+   The continent–ocean boundary (COB) is defined as coin-         derived from multidisciplinary data such as refraction seis-
+ciding with the maximum horizontal Bouguer gravity gradi-         mics, receiver-function analysis and a probabilistic inversion
+ents in the study area and separates the oceanic crust from       model (Table 1).
+the continental crust (Fig. 1; Breivik et al., 1999; Minakov
+et al., 2012a). This is supported by a number of seismic re-      3.2   Modelling of the upper mantle configuration
+flection and refraction profiles crossing the continent–ocean
+transition (Breivik et al., 2003; Czuba et al., 2011; Ljones et   The lithospheric thickness is an important parameter required
+al., 2004; Ritzmann et al., 2002, 2004; Voss and Jokat, 2007,     if tectonic processes are studied. The base of the lithosphere,
+2009). The final 3-D structural model extends 2400 km in W–       the lithosphere–asthenosphere boundary (LAB), is assumed
+E and 2180 km in N–S direction (Fig. 1) with a horizontal         to represent the rheological transition between the rigid litho-
+grid spacing of 5 km and a vertical resolution corresponding      sphere where heat transport is mainly conductive to the un-
+to the number of geological units differentiated.                 derlying convection-dominated viscous asthenosphere (Tur-
+                                                                  cotte and Schubert, 2002). Possible factors controlling the
+3.1    Construction of the crustal configuration                  viscosity decrease at the LAB are e.g. temperature, water
+                                                                  content, chemical composition and partial melts. Accord-
+Clark et al. (2013b) and Glørstad-Clark (2011) subdivided         ingly, the nature of the LAB is discussed extensively in the
+the Phanerozoic sedimentary succession in the western Bar-        literature (Eaton et al., 2009; Fischer et al., 2010; Karato,
+ents Sea using a seismic sequence stratigraphic approach.         2012, and references therein). Particularly, partial melting
+As a result, the authors were able to determine first-order       is described to possess the potential to reduce the viscosity
+
+Solid Earth, 6, 153–172, 2015                                                                www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                                          157
+
+Figure 3. Depth to the four modelled megasequence boundaries: (a) earliest Eocene (b) mid-Cretaceous (c) mid-Jurassic (d) mid-Permian.
+The grey lines delineate structural features in the study area. The earliest Eocene surface equals the top crystalline crust in the oceanic domain.
+See Table 1 for the database. (EBS) – eastern Barents Sea; (NKS) – northern Kara Sea; (SB) – Sørvestsnaget Basin; (SKS) – southern Kara
+Sea; (SWBS) – southwestern Barents Sea; (TPB) – Timan–Pechora Basin; (VVP) – Vestbakken Volcanic Province; (WSB) – West Siberian
+Basin. Mesozoic (e) and Paleozoic (f) fault-sets (Faleide et al., 1993, 2008, 2010; Gudlaugsson et al., 1998) cover the western Barents Sea
+and were used as vertical interpolation barriers for the respective megasequence boundaries.
+
+www.solid-earth.net/6/153/2015/                                                                               Solid Earth, 6, 153–172, 2015
+158                                                                              P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+Table 1. References and coverage for the different horizons of the 3-D structural model.
+
+              Horizon                                  Reference                            Covered region
+              Bathymetry                               Jakobsson et al. (2012)              Entire study area
+              Earliest Eocene                          Faleide et al. (1996)                Norwegian–Greenland Sea
+                                                       Fiedler and Faleide (1996)           Norwegian–Greenland Sea
+                                                       Hjelstuen et al. (1996)              Norwegian–Greenland Sea
+                                                       Engen et al. (2006)                  Eurasia Basin
+                                                       Engen et al. (2009)                  Eurasia Basin
+                                                       Glebovsky et al. (2006)              Eurasia Basin
+                                                       Gramberg et al. (2001)               Eurasia Basin
+              Mid-Cretaceous                           Brekhuntsov et al. (2011)            S Kara Sea – W Siberian Basin
+                                                       Faleide et al. (1993)                SW Barents Sea
+              Mid-Jurassic                             Brekhuntsov et al. (2011)            Southern Kara Sea
+                                                       Faleide et al. (1993)                SW Barents Sea
+                                                       Johansen (1992)                      Barents Sea
+                                                       Kontorovich et al. (2010)            Southern Kara Sea
+                                                       Norwegian Petroleum Directorate      Southern Kara Sea
+                                                       Piskarev and Shkatov (2012)          Eastern Barents and Kara seas
+              Mid-Permian                              Brekhuntsov et al. (2011)            Southern Kara Sea
+                                                       Henriksen et al. (2011b)             Barents Sea
+                                                       Ivanova et al. (2011)                Barents Sea/Kara Sea
+                                                       Johansen (1992)                      Barents Sea
+                                                       Khutorskoi et al. (2008)             Barents Sea
+                                                       Nikishin et al. (2011)               Southern Kara Sea
+                                                       Piskarev and Shkatov (2012)          Eastern Barents and Kara seas
+              Top crystalline crust                    Aplonov et al. (1996)                Eastern Barents and Kara seas
+                                                       Drachev (2011)                       Eastern Barents and Kara seas
+                                                       Gramberg et al. (2001)               Western Barents Sea
+                                                       Hauser et al. (2011)                 European Arctic
+                                                       Ivanova et al. (2011)                Barents and Kara seas
+                                                       Johansen (1992)                      Barents Sea
+                                                       Myklebust 1994)                      Barents Sea
+                                                       Ritzmann et al. (2007)               Barents Sea
+                                                       Skilbrei (1991)                      Barents Sea
+              Moho                                     Aplonov et al. (1996)                Eastern Barents and Kara seas
+                                                       Dahl-Jensen et al. (2003)            NE Greenland
+                                                       Hauser et al. (2011)                 European Arctic
+                                                       Ivanova et al. (2011)                Barents Sea
+                                                       Kostyuchenko et al. (2006)           Eastern Barents and Kara seas
+                                                       Minakov et al. (2012a)               Northern Barents Sea
+                                                       Ritzmann et al. (2007)               Barents Sea
+              Lithosphere–asthenosphere boundary       Levshin et al. (2007)                Barents Sea
+                                                       Kumar et al. (2005)                  NE Greenland
+                                                       Shapiro and Ritzwoller (2002)        Kara Sea
+                                                       Zhang and Lay (1999)                 Oceanic Domain
+              Faults (interpolation barriers)          Faleide et al. (1993)                SW Barents Sea (Mesozoic)
+                                                       Faleide et al. (2008, 2010)          Western Barents Sea (Paleozoic)
+                                                       Gudlaugsson et al. (1998)            Western Barents Sea (Paleozoic)
+
+significantly even if occurring only in small amounts (Fischer          ing. To assess the configuration of the lithospheric mantle
+et al., 2010). Shear wave velocities are a well-suited parame-          and to derive information on the depth position of the LAB,
+ter to monitor such viscosity changes and hence, partial melt-          we have analysed published shear wave velocity models
+
+Solid Earth, 6, 153–172, 2015                                                                        www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                        159
+
+based on surface wave tomography (Levshin et al., 2007;           1vs = minimum over the spatial extension of BARMOD and
+Shapiro and Ritzwoller, 2002).                                    CUB1.0 and interpret it as the depth distribution of the LAB.
+   The regional BARMOD data set (Levshin et al., 2007) is            In the narrow oceanic domain, the BARMOD data set
+a 3-D shear wave velocity grid with a horizontal resolution       is restricted to the easternmost part of the Norwegian–
+of 50 km and 5 km in the vertical direction and is based on       Greenland Sea and the resolution of CUB1.0 is too coarse.
+inverted group-velocity measurements of Love and Rayleigh         Therefore, we were forced to find an alternative approach to
+waves. The 3-D grid comprises information on the 3-D shear        derive the depth position of the LAB in the oceanic domain.
+wave velocity distribution for large parts of the upper man-      Interestingly, Zhang and Lay (1999) detected a negative cor-
+tle beneath the Barents Sea and northernmost Scandinavia,         relation of mid-oceanic spreading rates with recorded surface
+Novaya Zemlya, Svalbard, Franz Josef Land and the west-           waves velocities in the Pacific, the Indian and the Atlantic
+ern parts of the southern Kara Sea. Thereby, the path density     oceans. Slow mid-oceanic spreading rates, as observed in the
+of Love and Rayleigh waves and the corresponding resolu-          Atlantic Ocean, are associated with slow mantle upwelling
+tion of the BARMOD model are highest in the western Bar-          which is thought to lead to a rigidification of the mantle
+ents Sea and southeastern Barents Sea and are rather low for      material at greater depths than, for example, in the fast-
+the southern Kara Sea. In the oceanic domain, the extent of       spreading Pacific Ocean. Deep rigidification of mantle ma-
+BARMOD is restricted to the eastern part of the Norwegian–        terial is also observed for the ultraslow-spreading Knipovich
+Greenland Sea. Vertically, BARMOD reaches down to a               Ridge in the Norwegian–Greenland Sea (Dick et al., 2003;
+maximum depth of 250 km.                                          Huang and Solomon, 1988; Sauter et al., 2011). Addition-
+   As the easternmost continental parts of the study area are     ally, Zhang and Lay (1999) noticed only a minor lithospheric
+not covered by the BARMOD data set, we used the global            thickness increase in the Atlantic Ocean with increasing age
+data set CUB1.0 of Shapiro and Ritzwoller, (2002) as a            of the seafloor. Based on their observations the authors set
+source of information on the mantle shear wave velocity con-      up an empirical equation to calculate the oceanic lithospheric
+figuration for this region. This complementary data set has a     thickness (L) as a function of age (t) for the Atlantic Ocean:
+horizontal resolution of 2◦ and a vertical resolution of 4 km                       √
+and is also considered in the BARMOD data set.                    L = 44.6 + 0.8 · t.                                        (2)
+   Both BARMOD and CUB1.0 data sets show mantle shear
+wave velocities that decrease with increasing depth over a        The Gakkel Ridge in the Eurasia Basin is, like as the
+certain depth interval. This zone laterally varies in thickness   Knipovich Ridge in the Atlantic Ocean, an ultraslow-
+and depth. Thereby, the deeper the inversion zone occurs the      spreading ridge characterised by spreading rates slower than
+higher are the shear wave velocities. We have determined the      20 mm a−1 (Dubinin et al., 2013, and references therein).
+depth range of this zone of reduced shear velocities for each     This justifies the application of the equation of Zhang and
+XY -position of the 3-D velocity models by calculating the        Lay (1999) also for the Eurasia Basin. Accordingly, we cal-
+differences in shear wave velocities (1vs ) between pairs of      culated the oceanic lithosphere thickness using the oceanic
+vertically adjacent grid nodes. Therefore, the shear wave ve-     age grid of Müller et al. (2008). Where BARMOD extends
+locity of a grid node located at shallower depth, z1, is sub-     into the oceanic domain, the depth of the determined LAB is
+tracted from the velocity at a grid node at larger depth, z2,     consistent with the LAB modelled according to Zhang and
+respectively:                                                     Lay (1999) which again justifies the used approach.
+                                                                     To derive the first depth map of the LAB for the entire
+1vs = vs,z2 − vs,z1 .                                      (1)    study area, we integrated the velocity-derived information
+                                                                  (BARMOD, CUB 1.0), oceanic-age related depths as well
+Accordingly, the 3-D geometry of the mantle zone where            as information from S-receiver functions for NE Greenland
+a velocity inversion with depth appears, is defined by grid       (Kumar et al., 2005).
+nodes characterised by 1vs < 0. This reduction corresponds
+to an inversion of the usual, pressure-controlled trend of in-    4     Results
+creasing velocities with increasing depth (1vs > 0) as ev-
+ident above and below this zone of decreasing velocities.         4.1    Structure of the sedimentary infill
+1vs is not uniform over these depth ranges but tends to in-
+crease in magnitude from the upper and lower limits of this       The bathymetry/topography (Fig. 1) represents the upper-
+low-velocity zone (LVZ) towards its centre. In the central        most surface of the 3-D structural model and shows typical
+parts of the LVZ the vertical velocity gradient is of up to       shallow water depths (average of about −300 m) over the
+1vs = 0.02 km s−1 per kilometre. We interpreted the depth         shelf, whereby single archipelagos (Novaya Zemlya, Sval-
+where the incremental velocity reduction is greatest for an       bard, Franz Josef Land) rise to more than 1000 m a.s.l. The
+XY -position (1vs = minimum) as the depth at which the            northern and western boundaries of the shelf are charac-
+geotherm cuts the solidus of mantle rock to induce first          terised by passive margins and a rather steep bathymetric
+significant partial melting. Hence, we mapped the depth of        slope defining the transition to the up to −4000 m deep
+
+www.solid-earth.net/6/153/2015/                                                                 Solid Earth, 6, 153–172, 2015
+160                                                                     P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+oceanic domain of the Norwegian–Greenland Sea and the             this megasequence is considerably thicker in the basins of
+Eurasia Basin.                                                    the western Barents Sea (absolute thickness of ∼ 15 000 m),
+   The earliest Eocene interface (Fig. 3a) represents             the eastern Barents Sea (∼ 10 500 m) and southern Kara Sea
+the shallowest megasequence boundary and equals the               (∼ 6000 m; Fig. 4d).
+bathymetry/topography over wide parts of the continental             The deepest megasequence overlying the top of the crys-
+domain. Only in the southwesternmost Barents Sea do de-           talline crust is the pre-mid-Permian megasequence (Fig. 4e)
+pressions define the transition to the oceanic domain. In         which encompasses numerous small-scale thickness maxima
+the latter, the earliest Eocene surface reaches depths of         which are mainly related to the topography of the top crys-
+more than 8000 m close to the COB. Similar depressions            talline crust (Fig. 4f). The western Barents Sea is marked
+occur also along the northern passive margin in the Eura-         by rather thin pre-mid-Permian sediments which attain up to
+sia Basin. The earliest Eocene megasequence boundary in           ∼ 10 000 m in the northern part of the Kara Sea and in the
+the oceanic domain is equivalent to the top of the crys-          East Barents Sea basin.
+talline crust. According to the depth differences between            The crystalline crust (Figs. 4f, 5b) is divided by the COB
+the bathymetry/topography and the earliest Eocene surface,        (continent–ocean boundary) into an oceanic and a continen-
+the thickness distribution of the earliest Eocene present         tal domain (Fig. 1). In the oceanic domain, the top crys-
+sediments show thickness maxima mostly restricted to the          talline crust is modelled as being identical with all megase-
+oceanic domain (up to 7500 m) whereas significant continen-       quence boundaries, since the oceanic crust is younger than
+tal deposits of this age are restricted to the southwesternmost   the youngest megasequence boundary in the model.
+Barents Sea (Fig. 4a).                                               In the continental domain, the top of the crystalline
+   The mid-Cretaceous megasequence boundary (Fig. 3b) re-         crust reveals significant depth variations (Fig. 4f), especially
+veals minor depressions in the South Kara Sea basin, in the       across the wide shelf areas though the bathymetry is rather
+West Siberian Basin, in the southern part of the East Bar-        uniform (Fig. 1). Given this flatness of the top of the sedi-
+ents Sea basin and is more markedly in the western Barents        ments and the consistency of the 3-D structural model, the
+Sea (Sørvestsnaget Basin, Vestbakken Volcanic Province).          depth variations of the crystalline crust directly reflect the
+Accordingly, these basins exhibit the largest depth differ-       cumulative thickness variations of the sedimentary megase-
+ences between the mid-Cretaceous and the overlying earli-         quences. Accordingly, depressions of the top crystalline crust
+est Eocene surface, which is clearly outlined in the calcu-       correlate with domains of larger sediment thickness. The
+lated thickness distribution of the mid-Cretaceous–Paleocene      deepest depressions of the top crystalline crust descend down
+megasequence (Fig. 4b). Within the southern Kara Sea a            to 14 000 m in the northern and southern Kara Sea and to
+mid-Cretaceous–Paleocene depocentre reveals a prominent           almost 20 000 m in the East Barents Sea basin and in the
+N–S trend. The subbasins of the western Barents Sea, on           western Barents Sea. The distance between basement highs
+the other hand, depict different strike directions of thickness   and lows is considerably smaller in the western Barents Sea
+maxima ranging from N–S in the west (Vestbakken Volcanic          (< 100 km) compared to the East Barents Sea and Kara Sea
+Province) to rather ENE–WSW in the east (Hammerfest and           basins (∼ 500 km). The eastern Barents Sea and the Kara Sea
+Nordkapp basins). Thereby, the wavelength of thickness vari-      are both subdivided into two subbasins separated by struc-
+ations is much shorter in the western Barents Sea than across     tural highs of the crystalline crust (Fig. 4f). Thereby, the
+the remaining study area. These pronounced thickness vari-        prominent structural high separating the northern and south-
+ations in the western Barents Sea reflect the structural effect   ern Kara Sea follows the topographic highs illustrated by the
+of offsets along relatively closely spaced faults (see Meso-      Ural Mountains, the Pai-Khoi and Novaya Zemlya fold-and-
+zoic faults in Fig. 3e).                                          thrust belts and the Taimyr region (Fig. 1).
+   The mid-Jurassic and the mid-Permian megasequence
+boundaries (Fig. 3c, d) show similar geometries as the over-      4.2   Crust and mantle structure
+lying mid-Cretaceous surface with narrow and deep depres-
+sions in the western Barents Sea and rather wide depres-          The depth map of the Moho illustrates a stepwise W–E
+sions in the East Barents Sea basin and the southern Kara         deepening structure (Fig. 5a) with shallowest depths beneath
+Sea. The corresponding sediments of the mid-Jurassic–mid-         the oceanic domain (< −15 km), moderate depths beneath
+Cretaceous megasequence attain thicknesses of up to about         the shelf (−35 km) and largest depths beneath the continen-
+11 000 m in the western Barents Sea within a N–S to NE–           tal mainland (< −50 km). Moreover, the continental Moho
+SW fan-shaped structure (Fig. 4c, d). Further east in the East    is essentially shallower (−24 km) beneath regions situated
+Barents Sea basin and the South Kara Sea basin, the mid-          close to the COB and NW of Svalbard. Beneath the East Bar-
+Jurassic–mid-Cretaceous unit is characterised by moderate         ents Sea basin and the northern Kara Sea, the Moho topogra-
+thicknesses (< 3000 m) arranged in a bowl-shaped geometry         phy is flat at about −30 km even below prominent sediment
+following the curvature of Novaya Zemlya.                         maxima (see Fig. 4d–e). The South Kara Sea basin is under-
+   The mid-Permian–mid-Jurassic sediment maxima show a            lain by similar Moho depths which are increasing towards
+similar distribution pattern to the overlying unit whereby        the Uralian Orogen in the south, Novaya Zemlya in the west
+
+Solid Earth, 6, 153–172, 2015                                                                www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                                        161
+
+Figure 4. Thickness distribution of the megasequences and the depth to the top crystalline crust: (a) Earliest Eocene to Present; (b) Mid-
+Cretaceous–Paleocene; (c) Mid-Jurassic–Mid-Cretaceous; (d) Mid-Permian–Mid-Jurassic; (e) Pre-mid-Permian; (f) depth to the top crys-
+talline crust. The grey lines delineate structural features in the study area (for legend see Fig. 1b). See Table 1 for database. (EBS) – eastern
+Barents Sea; (NKS) – northern Kara Sea; (SB) – Sørvestsnaget Basin; (SKS) – southern Kara Sea; (SWBS) – southwestern Barents Sea;
+(TPB) – Timan–Pechora Basin; (VVP) – Vestbakken Volcanic Province; (WSB) – West Siberian Basin.
+
+www.solid-earth.net/6/153/2015/                                                                              Solid Earth, 6, 153–172, 2015
+162                                                                            P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+Figure 5. Structure of the deeper crust and the upper mantle: (a) depth to the Moho; (b) thickness of the crystalline crust; (c) depth to the
+lithosphere–asthenosphere boundary (LAB); (d) thickness of the lithospheric mantle. See Table 1 for the database. (EBS) – eastern Barents
+Sea; (NKS) – northern Kara Sea; (SKS) – southern Kara Sea; (SWBS) – southwestern Barents Sea; (TPB) – Timan–Pechora Basin; (WSB)
+– West Siberian Basin.
+
+and Taimyr Peninsula in the north (up to −50 km). Conse-                 spheric mantle thickness follows the described W–E trend
+quently, the crystalline crust is thickest below these thrust            of the LAB relief (Fig. 5d). The thinnest lithospheric mantle
+and fold belts and towards the Scandinavian shield in the                is found below the oceanic domain (40 km), the westernmost
+south (Fig. 5b). Below the shelf, the crystalline crust is mod-          Barents Sea and Svalbard (35 km, Fig. 5d). Beneath the shelf,
+erately thick (locally up to 33 km) and thinned below regions            the lithospheric mantle thickens successively from the west-
+covered by the thickest sediments (SW Barents Sea basins,                ern Barents Sea (70 km) eastwards below the East Barents
+East Barents Sea basin, South Kara Sea basin). The oceanic               Sea basin (110 km) and beneath Novaya Zemlya (135 km).
+domain is defined by typical crustal thicknesses of 7 km.                The Kara Sea and the continental domain are underlain by
+   As found for the Moho, also the modelled LAB exhibits a               largest lithospheric mantle thicknesses (175 km). Also, re-
+comparable step-like W–E deepening with a shallow oceanic                cently published LAB maps show the trend of an shallow
+LAB (−50 km), a depth range from −60 to −155 km be-                      LAB beneath Svalbard and a strong deepening towards the
+neath the Barents Sea and the largest depths beneath the                 Barents Shelf and the continental mainland, though the abso-
+Kara Sea and the continental mainland (down to −200 km;                  lute depths vary significantly between these models (Gung et
+Fig. 5c). Wider domains of a rather flat LAB alternate with              al., 2003; Koptev and Ershov, 2011; McKenzie and Priestley,
+narrower transitional domains marked by steep depth gra-                 2008; Priestley and McKenzie, 2006).
+dients. Thereby, the LAB is cutting with depth also higher                  The integrated structural configuration of the entire
+shear wave velocities. The thickness distribution of the litho-          lithosphere, including the sedimentary megasequences, the
+
+Solid Earth, 6, 153–172, 2015                                                                         www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                          163
+
+crystalline crust, and also the shear wave velocity config-        velocity rocks such as intrusive volcanics (e.g. East Barents
+uration of the upper mantle, are illustrated on the basis of       Sea basin, Svalbard, Timan–Pechora Basin, West Siberian
+five regional profiles (Fig. 6a–e) that cross representative do-   Basin) aggravate the distinction between sediments and crys-
+mains of the Barents Sea and Kara Sea region (for location         talline crust (Artyushkov, 2005; Breivik et al., 2005; Gee
+see Fig. 1). Moreover, the profiles illustrate the depth dis-      et al., 2000; Ivanova et al., 2011; Vyssotski et al., 2006).
+tribution of the LVZ with the LAB in its centre. The W–E           This may connote locally an underestimation of the pre-mid-
+profiles (Fig. 6a, b, c, e) demonstrate the eastward stepwise      Permian sedimentary thickness and an overestimation of the
+deepening of the LAB. Following the mantle shear wave ve-          subsedimentary crustal thickness.
+locities in the same eastward direction, a distinctive increase       Despite these limitations and uncertainties, the thickness
+of velocities is observable from the oceanic to the western        map of the pre-mid-Permian sediments shows reproducible
+Barents Sea and again towards the eastern Barents Sea. Com-        trends as e.g. in the northern Kara Sea where a NW-striking
+paring the velocities with the BAREY 1-D reference model           sediment maximum attains a thickness of up to 12 500 m
+shows a +4 % anomaly in depths of about 90 km below the            (Fig. 4e). This thickness maximum is oriented almost per-
+eastern Barents Sea (Levshin et al., 2007). The N–S profile        pendicular to the prevailing structural orientation of the Bar-
+(Fig. 6d) illustrates a shallow Moho below the South Kara          ents and Kara shelves where Caledonian and Uralian struc-
+Sea basin whereby the LAB is rather flat along the profile         tural features strike NE–SW and N–S, respectively. Towards
+and shallows only in the northernmost part close to the COB.       the south and the southwest, the pre-mid-Permian sediments
+Also the mantle velocities show no larger anomalies beneath        are bounded by two structural highs of the crystalline crust
+the Kara Sea but are elevated velocities beneath the Timan–        (Figs. 4f, 6c, d). The NW–SE orientation of the crustal high
+Pechora Basin. This high-velocity anomaly is the continua-         separating the eastern Barents Sea and the northern Kara Sea
+tion from the westward adjoining Eastern Barents Sea.              correlates with the interpreted Timanide suture of the north-
+                                                                   ern Kara plate which is assumed to have accreted during
+                                                                   the Timanian Orogeny in the latest Precambrian (Lorenz et
+5     Discussion                                                   al., 2007; Pease and Scott, 2009). This may have caused the
+                                                                   formation of the NW-striking thickened crust and of the sed-
+The 3-D structural model makes it possible to analyse the          imentary basin in the hinterland (Malyshev et al., 2012a).
+sedimentary units in terms of depositional centres and asso-       Conversely, the Moho and the LAB are rather flat below
+ciated subsidence patterns. Correlating the shallow sedimen-       the northern Kara Sea and show no characteristic structure
+tary structure with the deeper crustal and lithospheric config-    (Fig. 5a, c). This indicates that the crustal imprint of a pos-
+uration including the velocity structure of the upper mantle,      sibly associated thinning event vanished during later basin
+we can tentatively interpret spatial correlation of the shallow    history or that a subsidence mechanism different from pure
+and deep lithospheric structure to shed light on possible basin    extension was responsible for the basin formation.
+formation mechanisms and related geodynamic events.                   The western Barents Sea was affected essentially by the
+                                                                   Caledonian Orogeny resulting in exhumation and denuda-
+5.1    Pre-mid-Permian                                             tion of the hinterland and wide deposition of clastic sedi-
+                                                                   ments. The NE–SW to NNE–SSW striking trend of the SW
+The pre-mid-Permian sedimentary strata constitute the low-         Barents Sea sedimentary basins is assumed to be inherited
+ermost megasequence which overlays directly the crystalline        from the Caledonian Orogeny (Breivik et al., 2005; Gud-
+crust. It has to be noted that the age of basal sediments within   laugsson et al., 1998; Ritzmann and Faleide, 2007). Corre-
+the pre-mid-Permian megasequence varies distinctively lat-         sponding nappes and thrust sheets are well documented on-
+erally beneath the Barents Sea and Kara Sea region accord-         shore Scandinavia and are supposed to continue beneath the
+ing to the onset of subsidence as outlined in the geological       western Barents Sea. However, in recent studies (Gernigon
+setting. The differentiation of such deep and old sedimen-         and Brönner, 2012; Gernigon et al., 2014) the striking trend
+tary rocks from the underlying crystalline crust using seismic     of the nappes and the thrust sheets in the western Barents Sea
+imaging techniques alone is challenging. The large depths          is disputed based on the analysis of new aeromagnetic data.
+involve, beside a compaction-induced density increase, also           The eastern part of the Barents Sea is covered by a
+elevated pressure and temperature conditions which enforce         thicker section of Devonian and older sediments (up to 6 km)
+diagenesis and enable low-grade metamorphism. As a re-             and a thinner Carboniferous–early Permian section (up to
+sult, the seismic velocities may be increased and the acoustic     2 km; Artyushkov, 2005; Ritzmann and Faleide, 2009) which
+impedance between sediments and crystalline crust reduced.         are integrated in the 3-D model into the pre-mid-Permian
+This hampers the detectability of sediment-characteristic          megasequence (Fig. 4e). These old sediments are assumed
+structures (e.g. stratification) in seismic data which in turn     to be the result from Middle Devonian westward subduc-
+could favour misinterpretation of corresponding reflectors as      tion (Gac et al., 2012; Nikishin et al., 1996, and references
+top crystalline crust. Beside the change in seismic impedance      therein) and subsequent back-arc extension and subsidence.
+due to contrasting physical properties of the rocks, also high-
+
+www.solid-earth.net/6/153/2015/                                                                  Solid Earth, 6, 153–172, 2015
+164                             P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+Figure 6.
+
+Solid Earth, 6, 153–172, 2015                      www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                                     165
+
+Figure 6. Five profiles illustrating the main geological units and the velocity structure (BARMOD, CUB1.0) on crustal and lithosphere scale
+(for location see Fig. 1b; LVZ – low velocity zone). The thinning factors are calculated with reference values of 32 and 200 km for the
+crystalline basement and the lithospheric mantle, respectively. Vertical exaggeration of the crustal-scale profiles: 5×, vertical exaggeration
+of the lithosphere-scale profiles: 3×.
+
+5.2   Mid-Permian to Paleocene                                           Sea experienced different extensional phases from late Pa-
+                                                                         leozoic to Paleocene times. In response to the locally varying
+The mid-Permian to Paleocene interval encompasses three                  lithospheric configurations and the different prevalent stress
+megasequences (mid-Permian–mid-Jurassic, mid-Jurassic–                   fields which most-likely influenced basin formation, the mid-
+mid-Cretaceous, mid-Cretaceous–Paleocene). The thickness                 Permian to Paleocene tectonic evolution of the eastern Bar-
+configurations of the respective megasequences show that the             ents Sea/southern Kara Sea and of the western Barents Sea
+Barents Sea and Kara Sea region experienced significant sub-             are analysed separately in the following.
+sidence during this time interval. Thereby, the amount and
+the geometry of the subsidence varies strongly through time              5.2.1    Eastern Barents Sea/southern Kara Sea
+in different subdomains, which can be related to certain tec-
+tonic and geodynamic developments. While the eastern Bar-                The main part of the preserved sedimentary succession
+ents Sea and the southern Kara Sea are assumed to be af-                 in the East Barents Sea basin corresponds to the mid-
+fected by compression in response to the Uralian Orogeny                 Permian–mid-Jurassic megasequence (Fig. 4d) while the
+in Late Triassic–Early Jurassic times, the western Barents               two overlying megasequences are distinctively thinner
+
+www.solid-earth.net/6/153/2015/                                                                           Solid Earth, 6, 153–172, 2015
+166                                                                  P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+(mid-Jurassic–mid-Cretaceous, mid-Cretaceous–Paleocene;         al., 2012, 2013; Semprich et al., 2010). Whatever the mecha-
+Fig. 4b, c). The pre-mid-Jurassic sediment configura-           nism controlling the strong Late Permian to Early Triassic
+tion in the southern Kara Sea is less well constrained          subsidence, pure extension of the crust appears to be un-
+due to lacking borehole data. However, seismic profiles         likely since traces of pronounced extension in the form of
+(Ivanova et al., 2011; Malyshev et al., 2012b; Nikishin         corresponding large normal faults and strong crustal thinning
+et al., 2011; Stoupakova et al., 2011) indicate that a          are absent in the basin (Ivanova et al., 2011; Khutorskoi et
+significant amount of mid-Permian to mid-Jurassic sedi-         al., 2008).
+ments is present beneath the southern Kara Sea as also             A mechanism that might explain the development of the
+indicated by the model (Figs. 4d, 6b, d). The overly-           East Barents Sea basin is lithospheric buckling (Gac et
+ing megasequences (mid-Jurassic–mid-Cretaceous and mid-         al., 2012) that has been discussed also for other basins (Cloet-
+Cretaceous–Paleocene) also show decreasing thicknesses.         ingh and Burov, 2011). An initial extensional phase in Devo-
+This implies that the East Barents Sea basin – and maybe        nian times may have resulted in underplating of magmatic
+also the southern Kara Sea – experienced strong subsidence      material beneath the present-day East Barents Sea basin. The
+in an early tectonic phase followed by weaker subsidence un-    compressional stress in the course of the Uralian Orogeny
+til Paleocene times. The Moho is at comparable depths be-       could have induced folding of the lithosphere, which may
+low both basins (at about 33 km) but deepens substantially      have involved densification of the magmatic body and led
+beneath Novaya Zemlya forming a structural boundary be-         to the observed strong subsidence in Late Permian to Early
+tween the two basins (Figs. 5b, 6b).                            Triassic times (Gac et al., 2012, 2013; Semprich et al., 2010).
+   There are also significant differences between the East      An important observation is the spatial correlation of the East
+Barents Sea basin and the South Kara Sea basin. The pre-        Barents Sea basin with the extent of the high shear wave ve-
+served mid-Permian–mid-Jurassic megasequence is distinc-        locity anomaly in the lithospheric mantle (Fig. 6a, b; Levshin
+tively thicker in the East Barents Sea basin (10 500 m) com-    et al., 2007). The authors relate the anomaly with subduction
+pared to the South Kara Sea basin (6500 m) indicating           in the course of the Caledonian and/or Uralian Orogenies.
+stronger subsidence west of Novaya Zemlya (Figs. 4d, 6b). In    Whatever their origin, the high mantle velocities probably re-
+contrast, for the mid-Jurassic–mid Cretaceous and the mid-      flect higher densities which, in turn, might have caused deep-
+Cretaceous–Paleocene megasequences the amount of pre-           seated negative buoyancy and shallow subsidence of the East
+served sediments is higher in the South Kara Sea basin (3300    Barents Sea basin.
+and 1700 m) than in the East Barents Sea basin (2200 and           In contrast to the East Barents Sea basin, the lithospheric
+600 m). This implies a general eastward shift of major subsi-   mantle below the southern Kara Sea reveals high shear wave
+dence over Mid-Permian to Paleocene times.                      velocity anomalies (Fig. 6b, d), which excludes densification
+   Two major geodynamic events coincide with the deposi-        of the upper mantle as a driving subsidence mechanism. An
+tion of the mid-Permian–mid-Jurassic sedimentary megase-        alternative mechanism is therefore needed to explain the ob-
+quence in the East Barents Sea basin and the South Kara         served mid-Permian–mid-Jurassic sediment thickness maxi-
+Sea basin. The first event, the Uralian Orogeny, is preserved   mum here. A first subsidence stage of the southern Kara Sea
+as a present-day topographic high in concert with a deep        is described as rifting-induced with N–S oriented graben-
+Moho along the northern Ural Mountains, the Pai-Khoi and        like structures in late Paleozoic to early Mesozoic times
+Novaya Zemlya fold-and-thrust belts and the Taimyr region       due to orogenic collapse (Ivanova et al., 2011; Malyshev et
+(Figs. 2, 6b; Puchkov, 2009; Steer et al., 1998). The sec-      al., 2012b; Nikishin et al., 2011; Stoupakova et al., 2011).
+ond geodynamic event corresponds to the eruption of flood       The extensional regime is hard to explain with the main com-
+basalts forming the Siberian Traps at the Permian–Triassic      pressional phase on Novaya Zemlya up to Late Triassic–
+boundary (Cherepanova et al., 2013; Vyssotski et al., 2006).    Early Jurassic times (Scott and Howard, 2010). Thus, the
+Widespread eruption of flood basalts due to rise of a mantle    deep N–S striking graben-like structures in the southern Kara
+plume is held responsible to have induced post-Permian ther-    Sea may originate also from a transtensional regime as part
+mal subsidence of the West Siberian Basin. The proximity of     of the Uralian Orogeny (Nikishin et al., 2011). Continuous
+the East Barents Sea basin and the South Kara Sea basin to      seismic reflections interpreted as sedimentary layers indi-
+the Uralian orogenic root, the West Siberian Basin and the      cate that from the mid-Jurassic on, the South Kara Sea basin
+major subsidence during the mid-Permian–mid-Jurassic time       adopted a clear bowl-shaped geometry where faulting did
+interval points a close link between the basin formation and    not play a significant role for creating accommodation space
+these two geodynamic events.                                    (Ivanova et al., 2011). To explain the subsidence in the South
+   For the East Barents Sea and South Kara Sea basins, nu-      Kara Sea basin, we might have to widen the view. The man-
+merous subsidence mechanisms have been postulated in re-        tle plume and related magmatism beneath the West Siberian
+cent years. They include among others (i) a foreland basin      Basin is thought to have reached also below the South Kara
+evolution (Petrov et al., 2008), (ii) multiphase extension      Sea basin (Saunders et al., 2005; Vyssotski et al., 2006) and
+(Ivanova et al., 2006; O’Leary et al., 2004) or (iii) a com-    might thus, have caused thermal cooling following Siberian
+pressive lithospheric buckling and phase changes (Gac et        Traps magmatism. Alternatively, the West Siberian mantle
+
+Solid Earth, 6, 153–172, 2015                                                              www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                            167
+
+plume might have caused negative dynamic topography to              der debate. Beside isostatic rebound in response to melting
+its flanks contributing to subsidence across the wider Barents      of thick Pliocene/Pleistocene ice sheets (Green and Duddy,
+Sea and Kara Sea region. In fact, the BARMOD shear veloc-           2010; Henriksen et al., 2011a), also a tectonic pulse prior
+ity model shows in depths of 50 km a low-velocity anomaly           to the onset of glaciations has been proposed (Dimakis et
+indicating a thermal anomaly (Fig. 6d; Levshin et al., 2007).       al., 1998). In fact, regional synchronous uplift is observed
+However, a remnant from the rifting history or the Siberian         for wider parts of the Arctic which would imply a regional
+plume seems to be unlikely, since the mantle would have             trigger such as the Iceland mantle plume. This deep ther-
+thermally re-equilibrated meanwhile. Additionally, the res-         mal mantle anomaly is assumed to account for the anomalous
+olution of BARMOD is rather low for the southern Kara Sea           shallow seafloor of the NE Atlantic Ocean (Fig. 1; Skogseid,
+region.                                                             2014).
+                                                                       In the Barents Sea and Kara Sea region however, strongest
+5.2.2    Western Barents Sea                                        Cenozoic uplift occurred on Svalbard which coincides spa-
+                                                                    tially with a thin continental lithosphere and slow shear wave
+In contrast to the wide and bowl-shaped structural depres-          velocities pointing to high temperatures in the upper man-
+sion of the eastern Barents Sea, the western Barents Sea is         tle (Figs. 5d, 6c; Dimakis et al., 1998; Green and Duddy,
+traversed by a system of structural lows and highs of the top       2010; Henriksen et al., 2011a; Japsen et al., 2010). Dörr
+crystalline crust (Fig. 4f) with corresponding locally thick        et al. (2013) have stated that Svalbard experienced an iso-
+sedimentary packages (Fig. 4a–e). These NE–SW- or NNE–              static uplift phase around ∼ 36 Ma due to magmatic activ-
+SSW-striking narrow troughs are structurally limited by ma-         ity during the formation of the northwards adjoining Yermak
+jor late Paleozoic and Mesozoic normal faults that cover the        Plateau. According to the authors, a second uplift phase may
+entire western Barents Sea (Fig. 3e, f).                            have been induced by thinning of the lithospheric mantle be-
+   The sediment thickness distribution indicates that rifting       neath Svalbard. This phenomenon is assumed to be caused by
+and hence subsidence shifted westwards with time, as ob-            small-scale mantle convection due to the adjacent Knipovich
+servable in the sedimentary megasequence which thickens             and Gakkel mid-oceanic ridges rather than the effect of
+towards the west with decreasing age (Fig. 4b–e). Major             plume activity. A recent study by Omang and Kierulf (2011)
+rifting in the southwestern Barents Sea continued in mid-           reveals that Svalbard is still experiencing uplift and that fluc-
+Jurassic times giving birth to deep basins (Tromsø Basin,           tuations of ice sheets cannot explain the observed uplift rates.
+the Sørvestsnaget Basin and the Bjørnøya Basin; Faleide et          Consequently, the low-velocity and hot upper mantle may
+al., 1993). In the Early Cretaceous, the northern Barents Sea       still contribute to present-day vertical movements.
+was uplifted – a phenomenon that has been related to the               In contrast to the northwestern shelf edge, late Cenozoic
+Arctic Large Igneous Province (Basov et al., 2009; Drachev          uplift and erosion was less pronounced (∼ 500–1000 m) in
+and Saunders, 2006; Maher and Harmon, 2001; Minakov et              the eastern Barents Sea (Henriksen et al., 2011a; Sobolev,
+al., 2012b; Worsley, 2008). The uplifted areas provided a ma-       2012). Thereby, the area affected by the least erosion corre-
+jor sediment source for the subsiding basins in the southwest-      lates spatially with the outline of the East Barents Sea basin
+ern Barents Sea. Late Cretaceous–Paleocene rifting resulted         but also with a domain where highest velocities in the litho-
+in the formation of pull-apart basins, and finally in break-up      spheric mantle (Fig. 6b, c) are observed. Consequently, the
+of the Norwegian–Greenland Sea (Faleide et al., 1993, 2008;         high velocities which are associated with a strong lithosphere
+Libak et al., 2012). The rifting history is also reflected in       may have contributed not only to the formation of the East
+the subsedimentary configuration in terms of a thinned crys-        Barents Sea basin in Paleozoic/Mesozoic times but may have
+talline crust and lithospheric mantle (Fig. 5b, d) as well as by    also prevented significant uplift in late Cenozoic times.
+the rather low velocities of the upper mantle (Fig. 6a, b, c, e).
+
+5.3     Earliest Eocene to present                                  6    Summary and conclusions
+
+                                                                    We have constructed a 3-D structural model of the greater
+The continental break-up and the opening of the Norwegian–
+                                                                    Barents Sea and Kara Sea region that resolves the first-order
+Greenland Sea started in Paleocene–Eocene times. Subse-
+                                                                    characteristics of its sedimentary cover, its crystalline crust
+quently, the ocean opened progressively northwards along a
+                                                                    as well as of its lithospheric mantle. A large amount of multi-
+mega-shear system with assumed rifting and the formation
+                                                                    disciplinary geophysical and geological data were integrated,
+of pull-apart basin in the westernmost Barents Sea (Engen
+                                                                    to model the best-possible structural configuration of the fol-
+et al., 2008; Faleide et al., 2010). In late Cenozoic times,
+                                                                    lowing continental subdomains: (1) the northern Kara Sea,
+widespread but locally varying uplift affected the Barents
+                                                                    (2) the southern Kara Sea, (3) the eastern Barents Sea and
+Sea and Kara Sea region and resulted in significant erosion
+                                                                    (4) the western Barents Sea.
+of the uppermost sediments. Accordingly, youngest strata are
+missing across wide parts of the shelf (Fig. 4a–c). The tim-            1. The North Kara Sea basin is covered mainly by pre-mid-
+ing and triggering mechanisms behind this uplift are still un-             Permian sediments indicating that its major subsidence
+
+www.solid-earth.net/6/153/2015/                                                                    Solid Earth, 6, 153–172, 2015
+168                                                                    P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+      phase was prior to the adjacent sedimentary basins. The     Acknowledgements. We acknowledge financial support by Statoil
+      related sediment maximum is separated from the Bar-         for parts of the work reported on here. Also we would like to
+      ents Sea by a NW-striking thickened crystalline crust       thank for constructive discussions with colleagues involved in
+      which may have originated from the late Neoprotero-         the BarMod project currently funded by the Research Council of
+      zoic Timanian Orogeny.                                      Norway and Statoil, and in the CALE project.
+
+ 2. The southern Kara Sea reveals a rather independent            The service charges for this open access publication
+    evolution from its northern counterpart. A distinctively      have been covered by a Research Centre of the
+    deeper LAB delimits the sedimentary basin from the            Helmholtz Association.
+    Barents Sea and may suggest an affiliation with the
+                                                                  Edited by: R. Carbonell
+    Siberian plate. The South Kara Sea basin lacks major
+    pre-mid-Permian sediments, but has accumulated the
+    major part of its sedimentary infill in mid-Permian to
+    earliest Eocene times. Thereby, the younger sedimen-
+    tary megasequences are thinner, implying a decaying           References
+    subsidence with time that was either of thermal origin
+    related to magmatism or due to negative dynamic topog-        Allen, P. A. and Allen, J. R.: Basin Analysis: Principles and
+    raphy in the course of the West Siberian mantle plume.          Application to Petroleum Play Assessment, 3rd Edn., Wiley-
+                                                                    Blackwell, 2013.
+ 3. Thickest sediments in the eastern Barents Sea have been       Aplonov, S. V., Shmelev, G. B., and Krasnov, D. K.: Geodynam-
+    preserved from the mid-Permian–mid-Jurassic megase-             ics of the Barents-Kara Shelf: Geophysical Evidence, Geotec-
+    quence indicating strong subsidence back then. The              tonics+, 30, 309–326, 1996.
+    sedimentary succession in the East Barents Sea basin          Artyushkov, E.: The formation mechanism of the Barents basin,
+                                                                    Russ. Geol. Geophys., 46, 700–713, 2005.
+    shows no larger extensional faults but is coinciding spa-
+                                                                  Barrère, C., Ebbing, J., and Gernigon, L.: Offshore prolongation of
+    tially with anomalously high shear wave velocities in
+                                                                    Caledonian structures and basement characterisation in the west-
+    the lithospheric mantle that may have played an essen-          ern Barents Sea from geophysical modelling, Tectonophysics,
+    tial role during the evolution of this sedimentary basin.       470, 71–88, doi:10.1016/j.tecto.2008.07.012, 2009.
+    Lithospheric buckling with associated phase transitions       Basov, V. A., Ebbing, J., Gernigon, L., Korchinskaya, M. V., Koren,
+    (Gac et al., 2012, 2013; Semprich et al., 2010) could           T., Kosteva, N. V., Kotljar, G. V., Larssen, G. B., Litvinova, T.,
+    be one explanation the intense subsidence in Permian to         Negrov, O. B., Olesen, O., Pascal, C., Pchelina, T. M., Petrov,
+    Triassic times. The high-velocity anomaly in the litho-         O. V., Petrov, Y. O., Sjulstad, H.-I., Smelror, M., Sobolev, N. N.,
+    spheric mantle beneath the eastern Barents Sea may              Vasiliev, V., and Werner, S. C.: Geological history of the Barents
+    have contributed to accelerated Permian to Triassic sub-        Sea, edited by: Smelror, M., Petrov, O., Larssen, G., and Werner,
+    sidence and might be responsible for less intense uplift        S., Geological Survey of Norway, Trondheim, Norway, 1–138,
+                                                                    2009.
+    of the eastern Barents Sea in late Cenozoic times.
+                                                                  Bogdanova, S. V., Bingen, B., Gorbatschev, R., Kheraskova,
+ 4. The southwestern Barents Sea exhibits a classical rift          T. N., Kozlov, V. I., Puchkov, V. N., and Volozh, Y. A.:
+    system with major extensional faults. The amounts of            The East European Craton (Baltica) before and during
+                                                                    the assembly of Rodinia, Precambrian Res., 160, 23–45,
+    sediments deposited as megasequences increase with
+                                                                    doi:10.1016/j.precamres.2007.04.024, 2008.
+    time towards the present-day COB indicating a west-
+                                                                  Breivik, A. J., Faleide, J. I., and Gudlaugsson, S. T.: South-
+    ward shift in rifting. The shallow Moho and LAB as              western Barents Sea margin: late Mesozoic sedimentary
+    well as low seismic shear wave velocities in the man-           basins and crustal extension, Tectonophysics, 293, 21–44,
+    tle indicating high mantle temperatures are consistent          doi:10.1016/S0040-1951(98)00073-0, 1998.
+    with the assumption of a rift scenario. The continental       Breivik, A., Verhoef, J., and Faleide, J.: Effect of thermal con-
+    LAB is shallowest below Svalbard and the northwest-             trasts on gravity modeling at passive margins: results from
+    ern Barents Sea where strong late Cenozoic uplift and           the western Barents Sea, J. Geophys. Res., 104, 15293–15311,
+    volcanism are observed.                                         doi:10.1029/1998JB900022, 1999.
+                                                                  Breivik, A. J., Mjelde, R., Grogan, P., Shimamura, H., Murai,
+In the next steps, the 3-D structural model will be tested          Y., and Nishimura, Y.: Crustal structure and transform margin
+against independent observables such as gravity and tem-            development south of Svalbard based on ocean bottom seis-
+perature. Constraining the present-day lithosphere-scale            mometer data, Tectonophysics, 369, 37–70, doi:10.1016/S0040-
+                                                                    1951(03)00131-8, 2003.
+3-D thermal field provides implications about the regional
+                                                                  Breivik, A. J., Mjelde, R., Grogan, P., Shimamura, H., Murai, Y.,
+strength of the lithosphere and thus, will be essential to fur-
+                                                                    and Nishimura, Y.: Caledonide development offshore–onshore
+ther unravel the evolution of the Barents Sea and Kara Sea          Svalbard based on ocean bottom seismometer, conventional seis-
+region and the mechanisms behind subsidence and uplift.             mic, and potential field data, Tectonophysics, 401, 79–117,
+                                                                    doi:10.1016/j.tecto.2005.03.009, 2005.
+
+Solid Earth, 6, 153–172, 2015                                                                   www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                                      169
+
+Brekhuntsov, A. M., Monastyrev, B. V., and Nesterov, I. I.: Distribu-   Dubinin, E. P., Kokhan, A. V., and Sushchevskaya, N. M.: Tectonics
+  tion patterns of oil and gas accumulations in West Siberia, Russ.        and magmatism of ultraslow spreading ridges, Geotectonics, 47,
+  Geol. Geophys.+, 52, 781–791, doi:10.1016/j.rgg.2011.07.004,             131–155, doi:10.1134/S0016852113030023, 2013.
+  2011.                                                                 Eaton, D. W., Darbyshire, F., Evans, R. L., Grütter, H.,
+Cherepanova, Y., Artemieva, I. M., Thybo, H., and Chemia, Z.:              Jones, A. G., and Yuan, X.: The elusive lithosphere–
+  Crustal structure of the Siberian craton and the West Siberian           asthenosphere boundary (LAB) beneath cratons, Lithos, 109, 1–
+  basin: An appraisal of existing seismic data, Tectonophysics,            22, doi:10.1016/j.lithos.2008.05.009, 2009.
+  609, 154–183, doi:10.1016/j.tecto.2013.05.004, 2013.                  Engen, Ø., Frazer, L. N., Wessel, P., and Faleide, J. I.: Pre-
+Clark, S. A., Faleide, J. I., Hauser, J., Ritzmann, O., Mjelde, R.,        diction of sediment thickness in the Norwegian–Greenland
+  Ebbing, J., Thybo, H., and Flüh, E.: Stochastic velocity inversion       Sea from gravity inversion, J. Geophys. Res., 111, B11403,
+  of seismic reflection/refraction traveltime data for rift structure      doi:10.1029/2005JB003924, 2006.
+  of the southwest Barents Sea, Tectonophysics, 593, 135–150,           Engen, Ø., Faleide, J. I., and Dyreng, T. K.: Opening of the Fram
+  doi:10.1016/j.tecto.2013.02.033, 2013a.                                  Strait gateway: A review of plate tectonic constraints, Tectono-
+Clark, S. A., Glorstad-Clark, E., Faleide, J. I., Schmid, D., Hartz,       physics, 450, 51–69, doi:10.1016/j.tecto.2008.01.002, 2008.
+  E. H., and Fjeldskaar, W.: Southwest Barents Sea rift basin evo-      Engen, Ø., Gjengedal, J. A., Faleide, J. I., Kristoffersen, Y., and El-
+  lution: comparing results from backstripping and time-forward            dholm, O.: Seismic stratigraphy and sediment thickness of the
+  modelling, Basin Res., 25, 1–17, doi:10.1111/bre.12039, 2013b.           Nansen Basin, Arctic Ocean, Geophys. J. Int., 176, 805–821,
+Cloetingh, S. and Burov, E.: Lithospheric folding and sedi-                doi:10.1111/j.1365-246X.2008.04028.x, 2009.
+  mentary basin evolution: a review and analysis of forma-              Faleide, J. I., Vågnes, E., and Gudlaugsson, S. T.: Late Mesozoic-
+  tion mechanisms, Basin Res., 23, 257–290, doi:10.1111/j.1365-            Cenozoic evolution of the south-western Barents Sea in a re-
+  2117.2010.00490.x, 2011.                                                 gional rift-shear tectonic setting, Mar. Petrol. Geol., 10, 186–214,
+Czuba, W., Grad, M., Mjelde, R., Guterch, A., Libak, A., Krüger,           doi:10.1016/0264-8172(93)90104-Z, 1993.
+  F., Murai, Y., and Schweitzer, J.: Continent-ocean-transition         Faleide, J. I., Solheim, A., Fiedler, A., Hjelstuen, B. O., Ander-
+  across a trans-tensional margin segment: off Bear Island, Bar-           sen, E. S., and Vanneste, K.: Late Cenozoic evolution of the
+  ents Sea, Geophys. J. Int., 184, 541–554, doi:10.1111/j.1365-            western Barents Sea-Svalbard continental margin, Global Planet.
+  246X.2010.04873.x, 2011.                                                 Change, 12, 53–74, doi:10.1016/0921-8181(95)00012-7, 1996.
+Dahl-Jensen, T., Larsen, T. B., Woelbern, I., Bach, T., Hanka, W.,      Faleide, J. I., Tsikalas, F., Breivik, A. J., Mjelde, R., Ritzmann,
+  Kind, R., Gregersen, S., Mosegaard, K., Voss, P., and Gudmunds-          O., Engen, O., Wilson, J., and Eldholm, O.: Structure and evo-
+  son, O.: Depth to Moho in Greenland: receiver-function analy-            lution of the continental margin off Norway and the Barents Sea,
+  sis suggests two Proterozoic blocks in Greenland, Earth Planet.          Episodes, 31, 82–91, 2008.
+  Sc. Lett., 205, 379–393, doi:10.1016/S0012-821X(02)01080-4,           Faleide, J. I., Bjørlykke, K., and Gabrielsen, R. H.: Geology of
+  2003.                                                                    the Norwegian Continental Shelf, in: Petroleum Geoscience:
+Dick, H. J. B., Lin, J., and Schouten, H.: An ultraslow-                   From Sedimentary Environments to Rock Physics, edited by:
+  spreading class of ocean ridge, Nature, 426, 405–412,                    Bjørlykke, K., Springer-Verlag, Berlin, Heidelberg, 467–499,
+  doi:10.1038/nature02128, 2003.                                           doi:10.1007/978-3-642-02332-3_22, 2010.
+Dimakis, P., Braathen, B. I., Faleide, J. I., Elverhøi, A., and Gud-    Fiedler, A. and Faleide, J. I.: Cenozoic sedimentation along
+  laugsson, S. T.: Cenozoic erosion and the preglacial uplift of           the southwestern Barents Sea margin in relation to uplift
+  the Svalbard–Barents Sea region, Tectonophysics, 300, 311–327,           and erosion of the shelf, Global Planet. Change, 12, 75–93,
+  doi:10.1016/S0040-1951(98)00245-5, 1998.                                 doi:10.1016/0921-8181(95)00013-5, 1996.
+Dörr, N., Clift, P. D., Lisker, F., and Spiegel, C.: Why is Sval-       Fischer, K. M., Ford, H. A., Abt, D. L., and Rychert, C. A.: The
+  bard an island? Evidence for two-stage uplift, magmatic under-           Lithosphere-Asthenosphere Boundary, Annu. Rev. Earth Pl. Sc.,
+  plating, and mantle thermal anomalies, Tectonics, 32, 473–486,           38, 551–575, doi:10.1146/annurev-earth-040809-152438, 2010.
+  doi:10.1002/tect.20039, 2013.                                         Gac, S., Huismans, R. S., Podladchikov, Y. Y., and Faleide, J. I.: On
+Dörr, N., Lisker, F., Clift, P. D., Carter, A., Gee, D. G., Tebenkov,      the origin of the ultradeep East Barents Sea basin, J. Geophys.
+  A. M., and Spiegel, C.: Late Mesozoic–Cenozoic exhumation                Res., 117, B04401, doi:10.1029/2011JB008533, 2012.
+  history of northern Svalbard and its regional significance: Con-      Gac, S., Huismans, R. S., Simon, N. S. C., Podladchikov, Y. Y.,
+  straints from apatite fission track analysis, Tectonophysics, 514–       and Faleide, J. I.: Formation of intracratonic basins by litho-
+  517, 81–92, doi:10.1016/j.tecto.2011.10.007, 2012.                       spheric shortening and phase changes: a case study from the
+Drachev, S. and Saunders, A.: The Early Cretaceous Arctic LIP: its         ultra-deep East Barents Sea basin, Terra Nova, 25, 459–464,
+  geodynamic setting and implications for Canada Basin opening,            doi:10.1111/ter.12057, 2013.
+  in: Proceedings of the Fourth International Conference on Arctic      Gee, D. G. and Pease, V.: The Neoproterozoic Timanide Orogen of
+  Margins, US Department of the Interior, Anchorage, 216–223,              eastern Baltica: introduction, Geological Society, London, Mem-
+  2006.                                                                    oirs, 30, 1–3, doi:10.1144/GSL.MEM.2004.030.01.01, 2004.
+Drachev, S. S.: Chapter 25 Tectonic setting, structure and              Gee, D. G., Beliakova, L., and Pease, V.: New, single zircon (Pb-
+  petroleum geology of the Siberian Arctic offshore sedimen-               evaporation) ages from Vendian intrusions in the basement be-
+  tary basins, Geological Society, London, Memoirs, 35, 369–394,           neath the Pechora Basin, northeastern Baltica, Polarforschung,
+  doi:10.1144/M35.25, 2011.                                                Bremerhaven, Alfred Wegener Institute for Polar and Marine Re-
+                                                                           search & German Society of Polar Research, 68, 161–170, 2000.
+
+www.solid-earth.net/6/153/2015/                                                                           Solid Earth, 6, 153–172, 2015
+170                                                                          P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+Gee, D. G., Bogolepova, O. K., and Lorenz, H.: The Timanide,            Hjelstuen, B., Elverhøi, A., and Faleide, J.: Cenozoic erosion and
+  Caledonide and Uralide orogens in the Eurasian high Arctic,              sediment yield in the drainage area of the Storfjorden Fan, Global
+  and relationships to the palaeo-continents Laurentia, Baltica and        Planet. Change, 12, 95–117, doi:10.1016/0921-8181(95)00014-
+  Siberia, Geological Society, London, Memoirs, 32, 507–520,               3, 1996.
+  doi:10.1144/GSL.MEM.2006.032.01.31, 2006.                             Huang, P. Y. and Solomon, S. C.: Centroid Depths of Mid-Ocean
+Gernigon, L. and Brönner, M.: Late Palaeozoic architecture and             Ridge Earthquakes: Dependence on Spreading Rate, J. Geophys.
+  evolution of the southwestern Barents Sea: insights from a new           Res., 93, 13445–13477, doi:10.1029/JB093iB11p13445, 1988.
+  generation of aeromagnetic data, Journal of the Geological Soci-      Ivanova, N. M., Sakoulina, T. S., and Roslov, Y. V.: Deep seismic
+  ety, 169, 449–459, doi:10.1144/0016-76492011-131, 2012.                  investigation across the Barents–Kara region and Novozemel-
+Gernigon, L., Brönner, M., Roberts, D., Olesen, O., Nasuti, A., and        skiy Fold Belt (Arctic Shelf), Tectonophysics, 420, 123–140,
+  Yamasaki, T.: Crustal and basin evolution of the southwestern            doi:10.1016/j.tecto.2006.01.011, 2006.
+  Barents Sea: From Caledonian orogeny to continental breakup,          Ivanova, N. M., Sakulina, T. S., Belyaev, I. V., Matveev, Y. I., and
+  Tectonics, 33, 347–373, doi:10.1002/2013TC003439, 2014.                  Roslov, Y. V.: Depth model of the Barents and Kara seas accord-
+Glebovsky, V. Y., Kaminsky, V. D., Minakov, A. N., Merkur’ev,              ing to geophysical surveys results, Geological Society, London,
+  S. A., Childers, V. A., and Brozena, J. M.: Formation of the Eura-       Memoirs, 35, 209–221, doi:10.1144/M35.12, 2011.
+  sia Basin in the Arctic Ocean as inferred from geohistorical anal-    Jakobsson, M., Mayer, L., Coakley, B., Dowdeswell, J. A., Forbes,
+  ysis of the anomalous magnetic field, Geotectonics, 40, 263–281,         S., Fridman, B., Hodnesdal, H., Noormets, R., Pedersen, R.,
+  doi:10.1134/S0016852106040029, 2006.                                     Rebesco, M., Schenke, H. W., Zarayskaya, Y., Accettella, D.,
+Glørstad-Clark, E.: Basin analysis in the western Bar-                     Armstrong, A., Anderson, R. M., Bienhoff, P., Camerlenghi, A.,
+  ents Sea area: the interplay between accommodation                       Church, I., Edwards, M., Gardner, J. V., Hall, J. K., Hell, B.,
+  space and depositional systems, University of Oslo, Oslo,                Hestvik, O., Kristoffersen, Y., Marcussen, C., Mohammad, R.,
+  doi:10.1016/j.marpetgeo.2010.02.008, 2011.                               Mosher, D., Nghiem, S. V., Pedrosa, M. T., Travaglini, P. G., and
+Gradstein, F. M., Ogg, J. G., and Hilgen, F. J.: On The                    Weatherall, P.: The International Bathymetric Chart of the Arctic
+  Geologic Time Scale, Newsletters Stratigr., 45, 171–188,                 Ocean (IBCAO) Version 3.0, Geophys. Res. Lett., 39, L12609,
+  doi:10.1127/0078-0421/2012/0020, 2012.                                   doi:10.1029/2012GL052219, 2012.
+Gramberg, I., Verba, V., and Verba, M.: Sedimentary Cover Thick-        Japsen, P., Green, P. F., Bonow, J. M., Rasmussen, E. S., Chalmers,
+  ness Map-Sedimentary Basins in the Arctic, Polarforschung, 69,           J. A., and Kjennerud, T.: Episodic uplift and exhumation along
+  243–249, 2001.                                                           North Atlantic passive margins: implications for hydrocarbon
+Green, P. and Duddy, I.: Synchronous exhumation events around              prospectivity, Petroleum Geology Conference series, 7, 979–
+  the Arctic including examples from Barents Sea and Alaska                1004, doi:10.1144/0070979, 2010.
+  North Slope, Petroleum Geology Conference series, 7, 633–644,         Johansen, S. E., Ostisty, B. K., Birkeland, Ø., Fedorovsky, Y. F.,
+  doi:10.1144/0070633, 2010.                                               Martirosjan, V. N., Christensen, O. B., Cheredeev, S. I., Ig-
+Gudlaugsson, S., Faleide, J. I., Johansen, S. E., and Breivik, A. J.:      natenko, E. A., and Margulis, L. S.: Hydrocarbon potential in the
+  Late Palaeozoic structural development of the South-western              Barents Sea region: play distribution and potential, in Norwegian
+  Barents Sea, Mar. Petrol. Geol., 15, 73–102, doi:10.1016/S0264-          Petroleum Society Special Publications, 2, 273–320, 1993.
+  8172(97)00048-2, 1998.                                                Karato, S.: On the origin of the asthenosphere, Earth Planet. Sc.
+Gung, Y., Panning, M., and Romanowicz, B.: Global anisotropy               Lett., 321–322, 95–103, doi:10.1016/j.epsl.2012.01.001, 2012.
+  and the thickness of continents, Nature, 422, 707–711,                Khutorskoi, M. D., Viskunova, K. G., Podgornykh, L. V.,
+  doi:10.1038/nature01559, 2003.                                           Suprunenko, O. I., and Akhmedzyanov, V. R.: A temper-
+Hauser, J., Dyer, K. M., Pasyanos, M. E., Bungum, H., Faleide,             ature model of the crust beneath the Barents Sea: In-
+  J. I., Clark, S. A., and Schweitzer, J.: A probabilistic seismic         vestigations along geotraverses, Geotectonics, 42, 125–136,
+  model for the European Arctic, J. Geophys. Res., 116, 1–17,              doi:10.1134/S0016852108020039, 2008.
+  doi:10.1029/2010JB007889, 2011.                                       Klimenko, S. S., Anischenko, L. A., and Antoshkina, A. I.: The
+Heine, C., Müller, R. D., Steinberger, B., and Torsvik,                    Timan-Pechora sedimentary basin: Palaeozoic reef formations
+  T. H.: Subsidence in intracontinental basins due to dy-                  and petroleum systems, Geological Society, London, Memoirs,
+  namic topography, Phys. Earth Planet. In., 171, 252–264,                 35, 223–236, doi:10.1144/M35.13, 2011.
+  doi:10.1016/j.pepi.2008.05.008, 2008.                                 Knies, J., Matthiessen, J., Vogt, C., Laberg, J. S., Hjelstuen,
+Henriksen, E., Bjornseth, H. M., Hals, T. K., Heide, T., Kiryukhina,       B. O., Smelror, M., Larsen, E., Andreassen, K., Eidvin, T.,
+  T., Klovjan, O. S., Larssen, G. B., Ryseth, A. E., Ronning,              and Vorren, T. O.: The Plio-Pleistocene glaciation of the
+  K., Sollid, K., and Stoupakova, A.: Uplift and erosion of the            Barents Sea–Svalbard region: a new model based on re-
+  greater Barents Sea: impact on prospectivity and petroleum               vised chronostratigraphy, Quaternary Sci. Rev., 28, 812–829,
+  systems, Geological Society, London, Memoirs, 35, 271–281,               doi:10.1016/j.quascirev.2008.12.002, 2009.
+  doi:10.1144/M35.17, 2011a.                                            Kontorovich, A. E., Epov, M. I., Burshtein, L. M., Kaminskii, V. D.,
+Henriksen, E., Ryseth, A. E., Larssen, G. B., Heide, T., Ron-              Kurchikov, A. R., Malyshev, N. A., Prischepa, O. M., Safronov,
+  ning, K., Sollid, K., and Stoupakova, A. V.: Tectonostratig-             A. F., Stupakova, A. V., and Suprunenko, O. I.: Geology and hy-
+  raphy of the greater Barents Sea: implications for petroleum             drocarbon resources of the continental shelf in Russian Arctic
+  systems, Geological Society, London, Memoirs, 35, 163–195,               seas and the prospects of their development, Russ. Geol. Geo-
+  doi:10.1144/M35.10, 2011b.                                               phys.+, 51, 3–11, doi:10.1016/j.rgg.2009.12.003, 2010.
+
+Solid Earth, 6, 153–172, 2015                                                                         www.solid-earth.net/6/153/2015/
+P. Klitzke et al.: 3-D model of the Barents–Kara Sea                                                                                   171
+
+Koptev, A. I. and Ershov, A. V.: Thermal thickness of the Earth’s     Minakov, A., Faleide, J. I., Glebovsky, V. Y., and Mjelde, R.:
+  lithosphere: a numerical model, Moscow University Geology              Structure and evolution of the northern Barents-Kara Sea con-
+  Bulletin, 66, 323–330, doi:10.3103/S014587521105005X, 2011.            tinental margin from integrated analysis of potential fields,
+Kostyuchenko, S., Sapozhnikov, R., Egorkin, A., Gee, D. G.,              bathymetry and sparse seismic data, Geophys. J. Int., 188, 79–
+  Berzin, R., and Solodilov, L.: Crustal structure and tectonic          102, doi:10.1111/j.1365-246X.2011.05258.x, 2012a.
+  model of northeastern Baltica, based on deep seismic and poten-     Minakov, A., Mjelde, R., Faleide, J. I., Flueh, E. R., Dannowski,
+  tial field data, Geological Society, London, Memoirs, 32, 521–         A., and Keers, H.: Mafic intrusions east of Svalbard imaged
+  539, doi:10.1144/GSL.MEM.2006.032.01.32, 2006.                         by active-source seismic tomography, Tectonophysics, 518–521,
+Kumar, P., Kind, R., Hanka, W., Wylegalla, K., Reigber, C., Yuan,        106–118, doi:10.1016/j.tecto.2011.11.015, 2012b.
+  X., Woelbern, I., Schwintzer, P., Fleming, K., Dahl-Jensen, T.,     Müller, R. D., Sdrolias, M., Gaina, C., and Roest, W. R.:
+  Larsen, T. B., Schweitzer, J., Priestley, K., Gudmundsson, O.,         Age, spreading rates, and spreading asymmetry of the
+  and Wolf, D.: The lithosphere–asthenosphere boundary in the            world’s ocean crust, Geochem. Geophy. Geosy., 9, Q04006,
+  North-West Atlantic region, Earth Planet. Sc. Lett., 236, 249–         doi:10.1029/2007GC001743, 2008.
+  257, doi:10.1016/j.epsl.2005.05.029, 2005.                          Myklebust, R.: Magentic mapping of the Barents Sea (MMBS)—
+Laberg, J. S. and Vorren, T. O.: Late Weichselian submarine debris       Unpublished Interpretation report, 1994.
+  flow deposits on the Bear Island Trough Mouth Fan, Mar. Geol.,      Nikishin, A. M., Ziegler, P. A., Stephenson, R. A., Cloetingh, S.,
+  127, 45–72, doi:10.1016/0025-3227(95)00055-4, 1995.                    Furne, A. V., Fokin, P. A., Ershov, A. V, Bolotov, S. N., Koro-
+Laberg, J. S. and Vorren, T. O.: Flow behaviour of the sub-              taev, M. V., and Alekseev, A. S.: Late Precambrian to Triassic
+  marine glacigenic debris flows on the Bear Island Trough               history of the East European Craton: dynamics of sedimentary
+  Mouth Fan, western Barents Sea, Sedimentology, 47, 1105–               basin evolution, Tectonophysics, 268, 23–63, 1996.
+  1117, doi:10.1046/j.1365-3091.2000.00343.x, 2000.                   Nikishin, A. M., Ziegler, P. A., Abbott, D., Brunet, M.-F., and Cloet-
+Levshin, A. L., Schweitzer, J., Weidle, C., Shapiro, N. M., and          ingh, S.: Permo–Triassic intraplate magmatism and rifting in
+  Ritzwoller, M. H.: Surface wave tomography of the Barents              Eurasia: implications for mantle plumes and mantle dynamics,
+  Sea and surrounding regions, Geophys. J. Int., 170, 441–459,           Tectonophysics, 351, 3–39, doi:10.1016/S0040-1951(02)00123-
+  doi:10.1111/j.1365-246X.2006.03285.x, 2007.                            3, 2002.
+Libak, A., Eide, C. H., Mjelde, R., Keers, H., and Flüh, E. R.:       Nikishin, V. A., Malyshev, N. A., Nikishin, A. M., and Obmetko,
+  From pull-apart basins to ultraslow spreading: Results from the        V. V.: The Late Permian-Triassic system of rifts of the South
+  western Barents Sea Margin, Tectonophysics, 514–517, 44–61,            Kara sedimentary basin, Moscow University Geology Bulletin,
+  doi:10.1016/j.tecto.2011.09.020, 2012.                                 66, 377–384, doi:10.3103/S0145875211060093, 2011.
+Ljones, F., Kuwano, A., Mjelde, R., Breivik, A., Shima-               O’Leary, N., White, N., Tull, S., Bashilov, V., Kuprin, V., Nat-
+  mura, H., Murai, Y., and Nishimura, Y.: Crustal transect               apov, L., and Macdonald, D.: Evolution of the TimanPechora
+  from the North Atlantic Knipovich Ridge to the Sval-                   and South Barents Sea basins, Geol. Mag., 141, 141–160,
+  bard Margin west of Hornsund, Tectonophysics, 378, 17–41,              doi:10.1017/S0016756804008908, 2004.
+  doi:10.1016/j.tecto.2003.10.003, 2004.                              Omang, O. C. D. and Kierulf, H. P.: Past and present-day ice mass
+Lorenz, H., Männik, P., Gee, D., and Proskurnin, V.: Geology of          variation on Svalbard revealed by superconducting gravime-
+  the Severnaya Zemlya Archipelago and the North Kara Ter-               ter and GPS measurements, Geophys. Res. Lett., 38, L22304,
+  rane in the Russian high Arctic, Int. J. Earth Sci., 97, 519–547,      doi:10.1029/2011GL049266, 2011.
+  doi:10.1007/s00531-007-0182-2, 2007.                                Otto, S. C. and Bailey, R. J.: Tectonic evolution of the north-
+Maher, J. and Harmon, D.: Manifestations of the Cretaceous High          ern Ural Orogen, J. Geol. Soc. London, 152, 903–906,
+  Arctic Large Igneous Province in Svalbard, J. Geol., 109, 91–          doi:10.1144/GSL.JGS.1995.152.01.03, 1995.
+  104, doi:10.1086/317960, 2001.                                      Pease, V. and Scott, R. A.: Crustal affinities in the Arctic Uralides,
+Malyshev, N. A., Nikishin, V. A., Nikishin, A. M., Obmetko, V. V.,       northern Russia: significance of detrital zircon ages from Neo-
+  Martirosyan, V. N., Kleshchina, L. N., and Reydik, Y. V.: A            proterozoic and Palaeozoic sediments in Novaya Zemlya and
+  new model of the geological structure and evolution of the             Taimyr, J. Geol. Soc. London, 166, 517–527, doi:10.1144/0016-
+  North Kara Sedimentary Basin, Dokl. Earth Sci., 445, 791–795,          76492008-093, 2009.
+  doi:10.1134/S1028334X12070057, 2012a.                               Petrov, O. V., Sobolev, N. N., and Koren, T. N.: Palaeozoic and
+Malyshev, N. A., Nikishin, V. A., Obmetko, V. V., Ikhsanov, B. I.,       Early Mesozoic evolution of the East Barents and Kara Seas sed-
+  Reydik, Y. V., Sitar, K. A., and Shapabaeva, D. S.: Geological         imentary basins, Norweg. J. Geol., 88, 227–234, 2008.
+  Structure and Petroleum System of South Kara Basin, in: 5th         Piskarev, A. and Shkatov, M.: Energy potential of the Russian Arc-
+  EAGE St. Petersburg International Conference and Exhibition on         tic Seas – Choice of Development Strategy, 1st Edn., Elsevier,
+  Geosciences – Making the Most of the Earths Resources, Saint           2012.
+  Petersburg 2012, doi:10.3997/2214-4609.20143593, 2012b.             Priestley, K. and McKenzie, D.: The thermal structure of the litho-
+Marello, L., Ebbing, J., and Gernigon, L.: Basement inhomo-              sphere from shear wave velocities, Earth Planet. Sc. Lett., 244,
+  geneities and crustal setting in the Barents Sea from a combined       285–301, doi:10.1016/j.epsl.2006.01.008, 2006.
+  3D gravity and magnetic model, Geophys. J. Int., 193, 557–584,      Puchkov, V. N.: The evolution of the Uralian orogen, Geo-
+  doi:10.1093/gji/ggt018, 2013.                                          logical Society, London, Special Publications, 327, 161–195,
+McKenzie, D. and Priestley, K.: The influence of lithospheric            doi:10.1144/SP327.9, 2009.
+  thickness variations on continental evolution, Lithos, 102, 1–11,   Reichow, M. K., Saunders, A. D., White, R. V., Al’Mukhamedov,
+  doi:10.1016/j.lithos.2007.05.005, 2008.                                A. I., and Medvedev, A. Y.: Geochemistry and petrogenesis
+
+www.solid-earth.net/6/153/2015/                                                                         Solid Earth, 6, 153–172, 2015
+172                                                                            P. Klitzke et al.: 3-D model of the Barents–Kara Sea
+
+   of basalts from the West Siberian Basin: an extension of the           Shapiro, N. M. and Ritzwoller, M. H.: Monte-Carlo inversion
+   Permo–Triassic Siberian Traps, Russia, Lithos, 79, 425–452,               for a global shear-velocity model of the crust and upper
+   doi:10.1016/j.lithos.2004.09.011, 2005.                                   mantle, Geophys. J. Int., 151, 88–105, doi:10.1046/j.1365-
+Ritzmann, O. and Faleide, J. I.: Caledonian basement of the western          246X.2002.01742.x, 2002.
+   Barents Sea, Tectonics, 26, 1–20, doi:10.1029/2006TC002059,            Skilbrei, J. R.: Interpretation of depth to the magnetic basement in
+   2007.                                                                     the northern Barents Sea (south of Svalbard), Tectonophysics,
+Ritzmann, O. and Faleide, J. I.: The crust and mantle lithosphere in         200, 127–141, doi:10.1016/0040-1951(91)90010-P, 1991.
+   the Barents Sea/Kara Sea region, Tectonophysics, 470, 89–104,          Skogseid, J.: Mantle plume related dynamic uplift and plate kine-
+   doi:10.1016/j.tecto.2008.06.018, 2009.                                    matics: The NE Atlantic case with global implications, EGU
+Ritzmann, O., Jokat, W., Mjelde, R., and Shimamura, H.:                      General Assembly, Vienna, Austria, 27 April–2 May, EGU2014-
+   Crustal structure between the Knipovich Ridge and the Van                 16896, 2014.
+   Mijenfjorden (Svalbard), Mar. Geophys. Res., 23, 379–401,              Sobolev, P.: Cenozoic uplift and erosion of the Eastern Barents Sea
+   doi:10.1023/B:MARI.0000018168.89762.a4, 2002.                             – constraints from offshore well data and the implication for
+Ritzmann, O., Jokat, W., Czuba, W., Guterch, A., Mjelde, R., and             petroleum system modelling, Z. Dtsch. Ges. Geowiss., 163, 309–
+   Nishimura, Y.: A deep seismic transect from Hovgård Ridge                 324, doi:10.1127/1860-1804/2012/0163-0323, 2012.
+   to northwestern Svalbard across the continental-ocean transi-          Steer, D. N., Knapp, J. H., Brown, L. D., Echtler, H. P., Brown,
+   tion: A sheared margin study, Geophys. J. Int., 157, 683–702,             D. L., and Berzin, R.: Deep structure of the continental litho-
+   doi:10.1111/j.1365-246X.2004.02204.x, 2004.                               sphere in an unextended orogen: An explosive-source seismic
+Ritzmann, O., Maercklin, N., Inge Faleide, J., Bungum, H.,                   reflection profile in the Urals (Urals Seismic Experiment and
+   Mooney, W. D., Detweiler, S. T., Faleide, J. I., and Bungurm,             Integrated Studies (URSEIS 1995)), Tectonics, 17, 143–157,
+   H.: A three-dimensional geophysical model of the crust in the             doi:10.1029/97TC03056, 1998.
+   Barents Sea region: model construction and basement charac-            Stoupakova, A. V., Henriksen, E., Burlin, Y. K., Larsen, G. B.,
+   terization, Geophys. J. Int., 170, 417–435, doi:10.1111/j.1365-           Milne, J. K., Kiryukhina, T. A., Golynchik, P. O., Bordunov,
+   246X.2007.03337.x, 2007.                                                  S. I., Ogarkova, M. P., and Suslova, A. A.: The geological
+Roberts, D. and Siedlecka, A.: Timanian orogenic deformation                 evolution and hydrocarbon potential of the Barents and Kara
+   along the northeastern margin of Baltica, Northwest Rus-                  shelves, Geological Society, London, Memoirs, 35, 325–344,
+   sia and Northeast Norway, and Avalonian–Cadomian con-                     doi:10.1144/M35.21, 2011.
+   nections, Tectonophysics, 352, 169–184, doi:10.1016/S0040-             Turcotte, D. L. and Schubert, G.: Geodynamics, Cambridge Univer-
+   1951(02)00195-6, 2002.                                                    sity Press, Cambridge, UK, 2002.
+Saunders, A. D., England, R. W., Reichow, M. K., and White, R. V.:        Voss, M. and Jokat, W.: Continent-ocean transition and voluminous
+   A mantle plume origin for the Siberian traps: uplift and exten-           magmatic underplating derived from P-wave velocity modelling
+   sion in the West Siberian Basin, Russia, Lithos, 79, 407–424,             of the East Greenland continental margin, Geophys. J. Int., 170,
+   doi:10.1016/j.lithos.2004.09.010, 2005.                                   580–604, doi:10.1111/j.1365-246X.2007.03438.x, 2007.
+Sauter, D., Sloan, H., Cannat, M., Goff, J., Patriat, P., Schaming, M.,   Voss, M. and Jokat, W.: From Devonian extensional collapse
+   and Roest, W. R.: From slow to ultra-slow: How does spreading             to early Eocene continental break-up: an extended transect
+   rate affect seafloor roughness and crustal thickness?, Geology,           of the Kejser Franz Joseph Fjord of the East Greenland
+   39, 911–914, doi:10.1130/G32028.1, 2011.                                  margin, Geophys. J. Int., 177, 743–754, doi:10.1111/j.1365-
+Scott, R. and Howard, J.: Offset and curvature of the Novaya                 246X.2008.04076.x, 2009.
+   Zemlya fold-and-thrust belt, Arctic Russia, Petroleum Geology          Vyssotski, A. V., Vyssotski, V. N., and Nezhdanov, A. A.: Evolu-
+   Conference series, 7, 645–657, doi:10.1144/0070645, 2010.                 tion of the West Siberian Basin, Mar. Petrol. Geol., 23, 93–126,
+Semprich, J., Simon, N. S. C., and Podladchikov, Y. Y.: Density              doi:10.1016/j.marpetgeo.2005.03.002, 2006.
+   variations in the thickened crust as a function of pressure, tem-      Worsley, D.: The post-Caledonian development of Svalbard
+   perature, and composition, Int. J. Earth Sci., 99, 1487–1510,             and the western Barents Sea, Polar Res., 27, 298–317,
+   doi:10.1007/s00531-010-0557-7, 2010.                                      doi:10.1111/j.1751-8369.2008.00085.x, 2008.
+                                                                          Zhang, Y. and Lay, T.: Evolution of oceanic upper mantle struc-
+                                                                             ture, Phys. Earth Planet. In., 114, 71–80, doi:10.1016/S0031-
+                                                                             9201(99)00047-3, 1999.
+
+Solid Earth, 6, 153–172, 2015                                                                          www.solid-earth.net/6/153/2015/
